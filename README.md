@@ -26,28 +26,68 @@ A critical examination of methodological research issues and quantitative resear
 - To afford the opportunity for computer-based applications of different procedures and techniques described in class thereby providing “hands on” experience for a practical understanding of the organisation and construction of data and measures, the selection of appropriate techniques, and the analysis and interpretation of “real” results.
 
 ## Format and Procedures
-This class is online. 
+
+The general format of each class will include lectures and audio-visual presentations, discussions, and in-class learning activities.
+
+This course will use this website and D2L as the method for course communication and to provide students with course materials (e.g., syllabus, handouts, instructions for assignments, readings, and course schedule). The course materials that are needed for each class will be posted on D2L a minimum of one (1) week prior to the class date. Prior to each class, students are expected to bring course materials to class, preferably on their own laptop. 
 
 ## Course Text
-There is no specific text for this course. A list of readings will provided for relevant in class sessions. Resources to help with software applications will also be provided.
+- Fields, A. (2010). Discovering Statistics Using SPSS (3rd ed). London, England: Sage Publications. 
 
-## Methods of assessment:
+OR
 
- Assignment | Percent
- ------------------------------------ | ---- 
- Regular Assignments | 40% 
- Intro to R | 15% 
- Accelerometer Data in R | 15% 
- Intervention Proposal | 10% 
- Intervention Evaluation in R | 15% 
- Intervention Evaluation	Report | 20% 
+- Fields, A. (2013). Discovering Statistics Using SPSS (4th ed). London, England: Sage Publications.
 
-__Note 1.__ I purposefuly do not have penalties for late assignments in my courses. You will have the most success with this course if you submit the assignments the weeks suggested. There will be a steep learning curve for R. It will hurt. The faster you get over the learning curve, the easier, and more fun, your life will be in this course.  
+**Additional readings are required. These readings will be in electronic format and will be posted on D2L. Readings will be available at least one (1) weeks prior to the reading assignment due date.**
 
-__Note 2.__ There are no specific formatting rules or guidelines for the course related to references. Use some type of reference formatting, APA and AMA are good choices. You will be using Markdown for most of the work so formatting mostly takes care of itself. 
+## Methods of assessment
 
-### Regular Assignments									
-Regular assignments will be outlined in the Weekly Outline table. There are 6 regular assignments. Each regular assignent with be worth 6.66% of your mark. The list is here: 
+Assignment | Percent | Due Date
+------------------------------------ | ---- | ----
+Quizzes | 5% | See below
+Satistics Assignments | 32% | See below
+Journal Article Critique | 18% | February 10, February 24, March 30
+Major Written Assignment | 25% | March 9, April 6
+Final Exam | 20% | TBA
+ 
+__Note 1.__ I purposefuly do not have penalties for late assignments in my courses. You will have the most success with this course if you submit the assignments the weeks suggested. There will be a steep learning curve. It will hurt. The faster you get over the learning curve, the easier, and more fun, your life will be in this course.  
+
+__Note 2.__ There are no specific formatting rules or guidelines for the course related to references. Use some type of reference formatting, APA and AMA are good choices. 
+
+### Quizzes								
+Students will be required to complete a total of six (6) quizzes (weighted equally) based on the textbook readings for the course (see table below). Quizzes are to be completed on D2L before class on the due date. See table below for topics, associated readings, and due dates. Quizzes will be open book (i.e., you are allowed to have the textbook and any notes you make in front of you); however, you are not permitted to use any other resources or speak to any person (electronically or verbally) while completing the quiz. To prepare for the quiz read the appropriate chapter and make some notes for key points so that you can easily locate the answers while completing the quiz. Quizzes will generally consist of approximately 10 multiple choice questions and you will be allowed approximately 45 minutes (so you will have lots of time to complete the open book quiz). The first quiz consists of 15 multiple choice questions and you are allowed 60 minutes. If you have any technical problems while completing the quiz, please contact the instructor immediately via  email.
+
+### Statistics Assignments	
+Students will be required to complete five (5) statistical assignments (not weighted equally – see table below). Further details of the assignment will be provided in class and on D2L. Statistics Assignments are to be submitted via the appropriate D2L dropbox by 5:00pm. See table below for topics, associated readings, and due dates.
+
+**NOTE**: There are 6 assignments listed below. Social Sciences/MPE students will complete Statistics Assignment 4: Regression which is 15% of your statistics assignment overall grade. Kinesiology/Exercise Science students will complete Statistics Assignment 6: Repeated Measures ANOVA which is 15% of your statistics assignment overall grade. There is only one (1) dropbox for Statistics Assignment 4/6.
+
+Topic | Edition & Chapter | Date | Quiz or Stats | Grade %
+------| ----------------- | ---- | ------------- | -------
+SPSS or R Environment | 3rd and 4th Edition Chapter 3 or R Handout| January 27 | Stats 1 | 3
+Statistics Review | 3rd and 4th Edition Chapter 1 and 2 | January 20 | Quiz 1 | 1
+Exploring Data | 3rd and 4th Edition Chapter 4 and 5 | February 3 | Quiz 2 | 1
+Correlation | 3rd Edition Chapter 6, 4th Edition Chapter 7 | February 3 | Quiz 3 | 1
+Exploring Data & Correlation | See above | February 10 | Stats 2 | 7
+Comparing means | 3rd and 4th Edition Chapter 9 | February 24 | Quiz 4 | 1
+Comparing means | 3rd and 4th Edition Chapter 9 | March 2 | Stats 3 | 5
+Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 2 | Quiz 5 | 1
+Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 9 | Stats 4 | 9.5
+ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 16 | Quiz 6 | 1
+ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 23 | Stats 5 | 7.5
+Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | March 30 | Stats 6 | 9.5
+
+### Journal Article Critique
+Students will be required to complete three (3) journal article critiques based on the methodological and statistical concepts (see table below). Journal Article Critiques are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. Further details of the assignment will be provided in class and on D2L.
+
+Critique | Description | Grade % | Due Date
+------------------------------------ | ---- | ----
+Choice of 1 of 3 journal articles assigned by the instructor | General critique (800 words, bullet point or short sentences) | 8% | February 10
+Student Choice of article | Written (800 words) critique of validity and reliability in experimental design | 6% | February 24
+Student Choice of article | Written (1200 word) critique of methods, design, and statistical analysis of a study | 11% | February 24
+
+
+
 
 Assignment | Week | Description | Brightspace Location
 -------- | -------- | ----- |---- | -----
