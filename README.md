@@ -1,4 +1,3 @@
-# HKR_6000
 # HKR 6000 Quantitative Methods in Physical Education
 
 ## Instructor
@@ -81,103 +80,32 @@ Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | March 30 | 
 Students will be required to complete three (3) journal article critiques based on the methodological and statistical concepts (see table below). Journal Article Critiques are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. Further details of the assignment will be provided in class and on D2L.
 
 Critique | Description | Grade % | Due Date
------------------------------------- | ---- | ----
+-------- | ----------- | ------- | ---------
 Choice of 1 of 3 journal articles assigned by the instructor | General critique (800 words, bullet point or short sentences) | 8% | February 10
 Student Choice of article | Written (800 words) critique of validity and reliability in experimental design | 6% | February 24
 Student Choice of article | Written (1200 word) critique of methods, design, and statistical analysis of a study | 11% | February 24
 
+### Major Written Assignments
+Students are required to write a major paper and will submit a draft and a final paper. Students will select from one of the following three (3) options for your major written assignment  
 
+**1. Option A - Methodology Assignment**  
 
+- Write a 2000-2500 word (not including title page or references) summary and critique of the quantitative methodologies and analyses used within a specific field of research. This is similar to a literature review which is an evaluation and summary of the knowledge and research within a specific field; however for this assignment rather than focussing on summarizing the knowledge of field you will summarize, evaluate and critique the methodologies and analyses within an area of research. This assignment is extremely useful to aid in the planning and development of a research study (e.g., your thesis). Topic must first be approved by instructor. Further details of the assignment will be provided in class and on D2L.   
 
-Assignment | Week | Description | Brightspace Location
--------- | -------- | ----- |---- | -----
-Regular Assignment 1 | Week 1 | Video and blog | __Discussions/Blog/Video and blog__
-Regular Assignment 2 | Week 3 | Intervention? and meeting with Dr. Fuller | __Discussions/Blog/Intervention?__
-Regular Assignment 3 | Week 4 | Apple Watch Data | __Assignments/Apple Watch Data__
-Regular Assignment 4 | Week 5 | App and Device Review | __Assignments/App and Device Review__
-Regular Assignment 5 | Week 7 | Process Evaluation | __Discussions/Blog/Process Evaluation__
-Regular Assignment 6 | Week 9 | Outcome Evaluation | __Discussions/Blog/Outcome Evaluation__
+**2. Option B – Statistical and Methodological Issues Journal Manuscript**    
 
-### Intro to R										
-1. Complete the R and RMarkdown tutorial.
-2. Submit your RMarkdown file and rendered PDF document to Brightspace (__Assignments/Intro to R__)
-
-### Accelerometer Data in R
-1. Complete the Accelerometer data analysis lab using R and RMarkdown.
-2. Submit your data, Rmd file, and rendered PDF document to Brightspace (__Assignments/Accelerometer Data__)
-
-### Intervention Proposal
-
-#### Description
-
-The purpose of the Intervention Proposal is to design a hypothetical research project that you would like to conduct. You will not need to complete the study, however, I will create a dataset that follows your study design and hypothesis. You will be required to analyze the dataset and write a report outlining your findings. Examples of possible interventions may include
-
-    1. A physical activity intervention to increase physical activity in a school
-    2. A new bicycle lane constructed in a urban area
-    3. A office intervention to increase physical activity among employees
-
-These are just suggestions. Feel free to explore the world of research in physical activity behaviour change. 
-
-__This project will be completed in groups of 2. I will assign the groups.__ 
-
-#### Sections 
-
-- Introduction (~ 800 words): A description of previous research that supports your intervention or suggests that your intervention will change physical activity. This should include support from 5-10 academic publications. 
-
-- Research Question and Hypothesis (~ 100 words): Your research question and hypothesis. Describe your research question and hypothesis for the study. You should only have 1 research question and 1 hypothesis. The section should be 1 paragraph.
-
-- Methods (~ 800 words): What is your outcome (dependent) variable? Describe the intervention in detail. What population are you recruiting for this study? How many people will you need? How will you analyze the data? How will create figures and tables to examine whether your intervention increased your physical activity? 
-
-#### Format
-
-The paper should be formatted using a standard academic format. I would suggest that APA and AMA are good choices. You can use MS Word or another word processor for the study proposal. You are not required to use Markdown. References should be included on a separate page. 
-
-Submit RMarkdown or Word document to Brightspace (__Assignments/Intervention Proposal__)
-
-### Intervention Evaluation in R
-
-1. Complete the assignment posted at the end of the [Intervention Evaluation in R](https://github.com/walkabilly/HKR6130_MUN/blob/master) 
-2. Submit your data, Rmd file, and rendered PDF document to Brightspace (__Assignments/Intervention Evaluation in R__)
-
-### Intervention Evaluation Report
-1. In the same groups as the Intervention Proposal Assignment write a 3000 word report detailing intervention evaluation.
-2. You can include the information from your Intervention Proposal in the report. 
-3. Submit RMarkdown or Word document to Brightspace (__Assignments/Intervention Evaluation Report__)
-
-
-## Academic Integrity
-Students and faculty at Memorial University share an important responsibility to maintain the integrity of the teaching and learning relationship.  This relationship is characterized by honesty, fairness and mutual respect for the aim and principles of the pursuit of education. 
+- Write a 2500-3000 word publishable paper on general or specific statistical and methodical issues within the field of human kinetics and recreation. The primary objective is to highlight and discuss statistical and design issues which are commonly incurred and recommendations for future researchers grounded in literature. Your paper may discuss one issue in-depth or could present several issues. It may focus on only statistical issues, only methodological issues, or both. This assignment might be of interest to students who either a) have already proposed their thesis or are working on a specific project (i.e., design has already been decided) or b) have interest in learning more advanced statistical and design issues. Topic(s) must first be approved by instructor. Further details of the assignment will be provided in class and on D2L. Student papers may be considered as a basis for a co-publication or presentation with the instructor. 
  
-Academic misconduct impedes the activities of the university community and is punishable by appropriate disciplinary action. Students are expected to be familiar with Memorial University’s regulations on Academic Misconduct (Section 6.12 of the Academic Calendar) which sets out the kinds of actions that constitute academic misconduct, including plagiarism, copying or allowing one’s own work to copied, use of unauthorized aids in examinations and tests, submitting work prepared in collaboration with another student when such collaboration has not been authorized, and other academic offenses.  The regulations also describe the procedures for dealing with allegations and the unit level as well as the university level, and the sanctions for any finding of academic misconduct, which can range from a written reprimand to a rescindment of the degree.  A lack of familiarity with Memorial’s regulations on academic misconduct does not constitute a defense against its application.   
- 
-If an instructor alleges that academic misconduct has occurred for evaluative instruments worth between 15-39% the course instructor is required to submit the student’s work along with a summary of the allegation to the SHKR Committee for Academic Integrity for consideration and a decision. Any allegations of misconduct that occur with evaluative instruments worth 40% or more of the final grade or final examinations are automatically sent to the Senate Committee on Undergraduate Studies for consideration.
- 
-Further information on academic integrity is outlined in the University Calendar 6.12: http://www.mun.ca/regoff/calendar/sectionNo=REGS-0748 Information regarding acceptable writing practices is available through the Writing Centre at http://www.mun.ca/writingcentre/
+**3. Option C – Research Journal Manuscript.  **
 
-## Accommodations for students with disabilities
-In compliance with the Memorial University’s policy and equal access laws, it is understood that appropriate academic accommodations may be required for student with disabilities. Please see the guide for full details http://www.mun.ca/policy/site/policy.php?id=239. 
+- Write a publishable manuscript in a format suitable for publication in a journal within your major topic area. Minimum page length is 8 pages (~2000 words) and maximum is 15 (~3600 words) not including references and tables. A research problem and research questions will be developed based on a secondary data set. Students are responsible for acquiring their own data set – speak to your supervisor and instructors, look on-line, or visit the QEII library. Data sets and project proposal must be approved by the instructor. The manuscript should include 1) introduction/literature review, 2) methods (design and analysis) and description of data, 3) results, and 4) discussion/conclusions. This assignment might be of interest to students with intermediate research/statistical knowledge and experience. Further details of the assignment will be provided in class and on D2L. Student papers may be considered as a basis for a co-publication with the instructor and/or other authors. If submitted for publication, students should consult with the instructor prior to publication to discuss authorship.
 
-## Weekly Outline
+Students are encouraged to consult with the instructor and with their supervisor in selecting one of these options. The assignment will be completed/submitted in 2 Parts  
+
+#### 1. Part 1 consists of submitting a draft which is a minimum of 4 pages in length for Options A and B and submitting at least the results section of your manuscript for Option C. (20% of Assignment grade)
+#### 2. Part 2 consists of submitting the final paper. (80% of Assignment grade)
 
 
-Data | Week | Link | Assignment 
- ------------------------------------ | ---- | --- | ----
-9 September 2019 | 1 | [What is Physical Activity?](https://github.com/walkabilly/HKR6130_MUN/blob/master/physical_activity.md) | Regular Assignment 1 
-16 September 2019 | 2 | [Intro to RMarkdown and R](https://github.com/walkabilly/HKR6130_MUN/blob/master/r_intro.md) | Intro to R 
-23 September 2019 | 3 | [What is an Intervention?](https://github.com/walkabilly/HKR6130_MUN/blob/master/intervention.md) | Regular Assignment 2 
-30 September 2019 | 4 | [Apple Watch Data in R](https://github.com/walkabilly/HKR6130_MUN/blob/master/apple_watch_data.md) | Regular Assignment 3 
-7 October 2019 | 5 | [App and Device Review](https://github.com/walkabilly/HKR6130_MUN/blob/master/app_device_review.md) | Regular Assignment 4 
-14 October 2019 | 6 | [Recovery Week](https://www.youtube.com/watch?v=Ftm2uv7-Ybw) | Meeting with Dr. Fuller
-21 October 2019 | 7 | [Process Evaluation](https://github.com/walkabilly/HKR6130_MUN/blob/master/process_evaluation.md) | Regular Assignment 5  
-28 October 2019 | 8 |  [Intervention Evaluation in R](https://github.com/walkabilly/HKR6130_MUN/blob/master/intervention_evaluation.md) | Intervention Proposal 
-4 November 2019 | 9 | [Outcome Evaluation](https://github.com/walkabilly/HKR6130_MUN/blob/master/outcome_evaluation.md)  | Regular Assignment 6 
-11 November 2019 | 10 |  [Accelerometer Data in R](https://github.com/walkabilly/HKR6130_MUN/blob/master/accel_data.md) | Accelerometer Data in R
-18 November 2019 | 11 | [Intervention Evaluation Consultation](https://github.com/walkabilly/HKR6130_MUN/blob/master/intervention_consultation.md) | Meeting with Dr. Fuller
-25 November 2019 | 12 | [Recovery Week](https://www.youtube.com/watch?v=Ux8xAuQBdkk) | Intervention Evaluation Report Due 
+### Final Exam
 
-## HELP
-
-I will post all of the questions and response I get in the help file here [https://github.com/walkabilly/HKR6130_MUN/blob/master/help.md](https://github.com/walkabilly/HKR6130_MUN/blob/master/help.md). Use this to your advantage, particularly in the first weeks. 
-
-
-Thanks to [Jenny Bryan](https://twitter.com/jennybryan) for the inspiration and tutorials. 
+Students will compelte an in-class 3 hour exam focussing on methodology and statistical topics/analysis learned throughout the course. Part A of the exam will first consist of multiple choice and short answers. Part B of the exam will be open book and will include the anlaysis of a data set.
