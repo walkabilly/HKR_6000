@@ -105,7 +105,29 @@ Students are encouraged to consult with the instructor and with their supervisor
 #### 1. Part 1 consists of submitting a draft which is a minimum of 4 pages in length for Options A and B and submitting at least the results section of your manuscript for Option C. (20% of Assignment grade)
 #### 2. Part 2 consists of submitting the final paper. (80% of Assignment grade)
 
-
 ### Final Exam
 
 Students will compelte an in-class 3 hour exam focussing on methodology and statistical topics/analysis learned throughout the course. Part A of the exam will first consist of multiple choice and short answers. Part B of the exam will be open book and will include the anlaysis of a data set.
+
+### Weekly Schedule
+
+Week | Date | Theme | Topic | Reading 
+---- | ---- | ----- | ----- | --------
+Week 1 | January 12 | Other | Intro | N/A
+.                   | Statistics | Review | Fields Ch. 1-2
+Week 2 | January 20 | Methods | Research and Theory & Levels of Measurement | Thomas et al, 2005
+.      |            | Other   | Assignment Orientation | N/A
+Week 3 | January 27 | Methods | Measurement and Sampling | Fields Ch. 3
+Week 4 | February 3 | Statistics | Correlation | Fields Ch. 4-5
+.      |            | Statistics   | Exploring Data | Fields Ch. 6 (3rd) - 7 (4th)
+Week 5 | February 10 | Methods | Research Design 1 | 
+. | February 10 | Statistics | Comparing Means | Fields Ch. 9
+Week 6 | February 17 | Reading Week | Break | 
+Week 7 | February 24 | Methods | Research Design 2 | 
+. | February 24 | Statistics | Regression | Fields Fields Ch. 7 (3rd) - 8 (4th)
+Week 8 | March 2 | Statistics | ANOVA | Fields Fields Ch. 10 (3rd) - 11 (4th)
+Week 9 | March 16 | Statistics | Repeated Measures | Fields Fields Ch. 13 (3rd) - 14 (4th)
+Week 10 | March 23 | Methods | Survey Research | Newman et al 2009
+.       |          | Statistics | Multilevel Models | TBA
+Week 11 | March 30 | Methods | Review | 
+
