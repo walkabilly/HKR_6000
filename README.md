@@ -45,7 +45,7 @@ Assignment | Percent | Due Date
 ------------------------------------ | ---- | ----
 Quizzes | 5% | See below
 Satistics Assignments | 32% | See below
-Journal Article Critique | 18% | February 10, February 24, March 30
+Journal Article Critique | 18% | February 10, March 30
 Major Written Assignment | 25% | March 9, April 6
 Final Exam | 20% | TBA
  
@@ -82,8 +82,7 @@ Students will be required to complete three (3) journal article critiques based 
 Critique | Description | Grade % | Due Date
 -------- | ----------- | ------- | ---------
 Choice of 1 of 3 journal articles assigned by the instructor | General critique (800 words, bullet point or short sentences) | 8% | February 10
-Student Choice of article | Written (800 words) critique of validity and reliability in experimental design | 6% | February 24
-Student Choice of article | Written (1200 word) critique of methods, design, and statistical analysis of a study | 11% | February 24
+Student Choice of article | Written (1200 word) critique of methods, design, and statistical analysis of a study | 10% | March 30
 
 ### Major Written Assignments
 Students are required to write a major paper and will submit a draft and a final paper. Students will select from one of the following three (3) options for your major written assignment  
