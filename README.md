@@ -78,10 +78,10 @@ Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | March 30 | 
 ### Journal Article Critique
 Students will be required to complete three (3) journal article critiques based on the methodological and statistical concepts (see table below). Journal Article Critiques are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. Further details of the assignment will be provided in class and on D2L.
 
-Critique | Description | Grade % | Due Date
--------- | ----------- | ------- | ---------
-Choice of 1 of 3 journal articles assigned by the instructor | General critique (800 words, bullet point or short sentences) | 8% | February 10
-Student Choice of article | Written (1200 word) critique of methods, design, and statistical analysis of a study | 10% | March 30
+Critique | Description | Grade % | Due Date | Description 
+-------- | ----------- | ------- | --------- | --------
+Choice of 1 of 3 journal articles assigned by the instructor | General critique (800 words, bullet point or short sentences) | 8% | February 10 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/Journal-Article-Critique-1.md)
+Student Choice of article | Written (1200 word) critique of methods, design, and statistical analysis of a study | 10% | March 30 |  [Description](https://github.com/walkabilly/HKR_6000/blob/master/Journal-Article-Critique-2.md)
 
 ### Major Written Assignments
 Students are required to write a major paper and will submit a draft and a final paper. Students will select from one of the following three (3) options for your major written assignment  
@@ -94,7 +94,7 @@ Students are required to write a major paper and will submit a draft and a final
 
 - Write a 2500-3000 word publishable paper on general or specific statistical and methodical issues within the field of human kinetics and recreation. The primary objective is to highlight and discuss statistical and design issues which are commonly incurred and recommendations for future researchers grounded in literature. Your paper may discuss one issue in-depth or could present several issues. It may focus on only statistical issues, only methodological issues, or both. This assignment might be of interest to students who either a) have already proposed their thesis or are working on a specific project (i.e., design has already been decided) or b) have interest in learning more advanced statistical and design issues. Topic(s) must first be approved by instructor. Further details of the assignment will be provided in class and on D2L. Student papers may be considered as a basis for a co-publication or presentation with the instructor. 
  
-**3. Option C – Research Journal Manuscript.  **
+**3. Option C – Research Journal Manuscript**
 
 - Write a publishable manuscript in a format suitable for publication in a journal within your major topic area. Minimum page length is 8 pages (~2000 words) and maximum is 15 (~3600 words) not including references and tables. A research problem and research questions will be developed based on a secondary data set. Students are responsible for acquiring their own data set – speak to your supervisor and instructors, look on-line, or visit the QEII library. Data sets and project proposal must be approved by the instructor. The manuscript should include 1) introduction/literature review, 2) methods (design and analysis) and description of data, 3) results, and 4) discussion/conclusions. This assignment might be of interest to students with intermediate research/statistical knowledge and experience. Further details of the assignment will be provided in class and on D2L. Student papers may be considered as a basis for a co-publication with the instructor and/or other authors. If submitted for publication, students should consult with the instructor prior to publication to discuss authorship.
 
