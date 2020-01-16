@@ -68,11 +68,10 @@ Statistics Review | 3rd and 4th Edition Chapter 1 and 2 | January 20 | Quiz 1 | 
 Exploring Data | 3rd and 4th Edition Chapter 4 and 5 | February 3 | Quiz 2 | 1
 Correlation | 3rd Edition Chapter 6, 4th Edition Chapter 7 | February 3 | Quiz 3 | 1
 Exploring Data & Correlation | See above | February 10 | Stats 2 | 7
-Comparing means | 3rd and 4th Edition Chapter 9 | February 24 | Quiz 4 | 1
 Comparing means | 3rd and 4th Edition Chapter 9 | March 2 | Stats 3 | 5
-Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 2 | Quiz 5 | 1
+Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 2 | Quiz 4 | 1
 Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 9 | Stats 4 | 9.5
-ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 16 | Quiz 6 | 1
+ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 16 | Quiz 5 | 1
 ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 23 | Stats 5 | 7.5
 Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | March 30 | Stats 6 | 9.5
 
