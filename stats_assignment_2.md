@@ -9,6 +9,18 @@ output:
 
 # Statistics Assignment 2 - Correlation
 
+## General instructions
+
+You must submit the following. 
+
+**SPSS**
+  - Syntax file
+  - Report in Word doc form with tables/figures cut and pasted from SPS output file
+
+**R**
+  - RMarkdown file
+  - Knit report in HTML or PDF
+
 ## Part 1
 
 ### State a research question and state the independent and dependent variables (13 Points)
@@ -52,25 +64,8 @@ Make sure you not only report the statistics/numbers but also discuss the relati
 - Include a list of references where appropriate. For this assignment, you do not need to worry
 about providing references to the scales/items within the dataset.
 
-- **SPSS**
-    - Cut and paste appropriate SPSS output from tables into a Word document and include the appropriate text description
-- **R**
-    - Submit an RMarkdown (.Rmd) and knit file (PDF or HTML) of the text descriptions, bullet points, and analysis results
-    
-### Statistical Formatting
-- Correct number of decimal places (for the level of measurement) frequencies, means, standard deviation and standard error.  
-- Correct statistical symbols must be used.   
-- Symbols for statistics must be formatted in italics.  
-- Appropriate presence/absence of leading zeros before decimal fractions (e.g., no leading zero for
-p-values or correlations).  
-- Make sure that appropriate symbols are in superscript. Degrees of freedom should be in
-subscript.  
-- Report p-values correctly (e.g., do not state that p = .000).  
-- Make sure you have a space before and after equals signs.  
-
 ### OVERALL (10 Points)
 - Assignments will be evaluated based on the overall effort and thoroughness of the assignment, attention to details, and overall presentation of results.
-
 
 ## Data
 
