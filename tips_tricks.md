@@ -44,4 +44,17 @@ When appropriate, you may use the title to explain an abbreviation parenthetical
 
 For theses, you will have to create a Table of Tables and a Table of Figures. Using the “Captions” and “Table of Figures” features in Word (under the Reference menu) you can format tables and figure titles in order to automatically generate the Table of Tables and Table of Figures. It is highly recommended that you learn these tools as they will save you time, headaches and heartaches when you are formatting your thesis for submission.
 
+## Managing Participant IDs
+
+It is important to provide an identifying number to each participant (e.g., 001, 002,..., 213). This is done for ethical reasons. You should not be able to identify or link your data to an actual participant (i.e., you should not know that case #5 is the data for John Doe). I often see students record the actual name of participants into their data file – this is a ‘big no-no’ and is against the research ethics approval. You also provide an identifying number to each participant as part of good, ethical data management. On the consent form record a unique number for the participant (001, 002,..., 010...). 
+
+## Data Management
+
+It is unethical to have the information that links people’s names to their participant code in an unsecure place. You can’t just keep your consent forms and surveys in a box under your desk. 
+
+- You must store the hard copies of the data (and consent forms) in a secure location (e.g., locked filing cabinet). If you are a student, this location is typically a cabinet in your supervisor’s office or lab. 
+- You also should NEVER have data on servers in the United States. That means you can't put data on Dropbox or Google Drive. 
+- Keep data on a local computer and backup the MUN servers. 
+- Transfer data with a USB key. 
+- Your computer should MUST be encrypted (Bitlocker for Windows or Filevault for Mac)
 
