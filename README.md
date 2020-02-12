@@ -90,7 +90,7 @@ Students will be required to complete five (5) statistical assignments (not weig
 #### Writing it up sections for statistics assignments are available here
 
 Topic | Edition & Chapter | Date | Assigment Description  | Grade %
-------| ----------------- | ---- | -----  | -------
+------| ----------------- | ---- | ---------------------  | -------
 SPSS or R Environment | 3rd and 4th Edition Chapter 3 or R Handout| February 3 | [Description]() |  3
 Exploring Data & Correlation | 3rd and 4th Edition Chapter 4 and 5 | February 24 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/stats_assignment_2.md) | 7
 Comparing means | 3rd and 4th Edition Chapter 9 | March 2 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/stats_assignment_3.md) | 5
