@@ -85,14 +85,18 @@ Students will be required to complete five (5) statistical assignments (not weig
 
 **NOTE**: There are 6 assignments listed below. Social Sciences/MPE students will complete Statistics Assignment 4: Regression which is 15% of your statistics assignment overall grade. Kinesiology/Exercise Science students will complete Statistics Assignment 6: Repeated Measures ANOVA which is 15% of your statistics assignment overall grade. There is only one (1) dropbox for Statistics Assignment 4/6.
 
-Topic | Edition & Chapter | Date |  Grade %
-------| ----------------- | ---- |  -------
-SPSS or R Environment | 3rd and 4th Edition Chapter 3 or R Handout| February 3 |  3
-Exploring Data & Correlation | 3rd and 4th Edition Chapter 4 and 5 | February 24 | 7
-Comparing means | 3rd and 4th Edition Chapter 9 | March 2 | 5
-Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 16 | 9.5
-ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | April 6 | 7.5
-Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | April 6 | 9.5
+#### Tips and Tricks for statistics assignments are available   [here](https://github.com/walkabilly/HKR_6000/blob/master/tips_tricks.md)
+
+#### Writing it up sections for statistics assignments are available here
+
+Topic | Edition & Chapter | Date | Assigment Description  | Grade %
+------| ----------------- | ---- | -----  | -------
+SPSS or R Environment | 3rd and 4th Edition Chapter 3 or R Handout| February 3 | [Description]() |  3
+Exploring Data & Correlation | 3rd and 4th Edition Chapter 4 and 5 | February 24 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/stats_assignment_2.md) | 7
+Comparing means | 3rd and 4th Edition Chapter 9 | March 2 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/stats_assignment_3.md) | 5
+Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 16 | [Description]() | 9.5
+ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | April 6 | [Description]() | 7.5
+Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | April 6 | [Description]() | 9.5
 
 ### Journal Article Critique
 Students will be required to complete three (3) journal article critiques based on the methodological and statistical concepts (see table below). Journal Article Critiques are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. Further details of the assignment will be provided in class and on D2L.
