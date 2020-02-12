@@ -8,3 +8,5 @@ output:
 ---
 
 ## Coming soon
+
+Snow day
