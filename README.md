@@ -89,14 +89,14 @@ Students will be required to complete five (5) statistical assignments (not weig
 
 #### Writing it up sections for statistics assignments are available here
 
-Topic | Edition & Chapter | Date | Assigment Description  | Sample | Grade %
-------| ----------------- | ---- | ---------------------  | ------- | -------
-SPSS or R Environment | 3rd and 4th Edition Chapter 3 or R Handout| February 3 | [Description]() |  3
-Exploring Data & Correlation | 3rd and 4th Edition Chapter 4 and 5 | February 24 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/stats_assignment_2.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/sa2_rmardown_example.md) -  [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/sa2_sps_example.md) |  7
-Comparing means | 3rd and 4th Edition Chapter 9 | March 2 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/stats_assignment_3.md) | 5
-Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 16 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/stats_assignment_4.md) | 9.5
-ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | April 6 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | 7.5
-Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | April 6 | [Description]() | 9.5
+Number | Topic | Edition & Chapter | Date | Assigment Description  | Sample | Grade %
+------| ------| ----------------- | ---- | ---------------------  | ------- | -------
+1 | SPSS or R Environment | 3rd and 4th Edition Chapter 3 or R Handout| February 3 | [Description]() | [R]() - [SPSS]() | 3
+2 | Exploring Data & Correlation | 3rd and 4th Edition Chapter 4 and 5 | February 24 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/stats_assignment_2.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_rmardown_example.md) -  [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_sps_example.md) |  7
+3 | Comparing means | 3rd and 4th Edition Chapter 9 | March 2 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/stats_assignment_3.md) | [R]() - [SPSS]() | 5
+4 | Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 16 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/stats_assignment_4.md) | [R]() - [SPSS]() | 9.5
+5 | ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | April 6 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | [R]() - [SPSS]() | 7.5
+6 | Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | April 6 | [Description]() | [R]() - [SPSS]()  | 9.5
 
 ### Journal Article Critique
 Students will be required to complete three (3) journal article critiques based on the methodological and statistical concepts (see table below). Journal Article Critiques are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. Further details of the assignment will be provided in class and on D2L.
