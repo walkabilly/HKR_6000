@@ -32,8 +32,9 @@ You must submit the following with.
 
 ## Data and rationale
 
-Data for the Assignment
-- ExerciseAdherance_OlderAdults.sav
+Data for the Assignment  
+
+- ExerciseAdherance_OlderAdults.sav  
 - ExerciseAdherance_OlderAdults.csv
 
 A cross-sectional survey was conducted with the aim to explore the strength of barriers to exercise, motivation to exercise, and exercise-efficacy in predicting participation of older adults (65 years of age or older) in physically active leisure. A purposeful sample was recruited through seniors’ community groups. The overall response rate was 75.9 % for a total of 224 respondents. Five respondents had a large percentage of missing data (>80%), thereby reducing the sample to 219 respondents. Respondents completed a survey instrument that included questions pertaining to 1) Participation in physically active leisure activities (‘participation’ – higher scores = greater physical activity); 2) Barriers to exercise (‘barriers’ – average score of 24 barrier items, with 1 = “Not at all Prevent or Inhibit”, 5 = “Very Much Prevent or Inhibit”); 3) Motivation to exercise (‘motive’ – average score of 9 motivation items, with 1 = “Not at all”, 5 = “Very much”, higher scores = greater motivation to exercise); and 4) Exercise-efficacy (‘efficacy’ – average score of 24 efficacy expectation items, with 0% = “Very uncertain”, 100% = “Very uncertain”, higher scores = greater confidence to exercise). 
@@ -43,7 +44,8 @@ A cross-sectional survey was conducted with the aim to explore the strength of b
 
 ## Part 2 - Explore the Data & Assumptions
 
-- Report and discuss the normality of the data:  Histograms
+- Report and discuss the normality of the data:
+  - Histograms
   - Skewness & Kurtosis
   - Kolmogorov-Smirnov test
   - Identify and discuss any outliers by examining the box plots.
@@ -67,8 +69,11 @@ A cross-sectional survey was conducted with the aim to explore the strength of b
 - Report and discuss the following:
     - R2 and Adjusted R2
     - F-ratio (and its corresponding degrees of freedom and level of significance)
-- How well does the Model fit the data? Analyze and discuss the following:  Residual Statistics - Standardized Residuals
-    - Influential cases - Cook’s distance
+- How well does the Model fit the data? Analyze and discuss the following 
+    - Residual Statistics 
+    - Standardized Residuals
+    - Influential cases 
+    - Cook’s distance
 - Determine which variables predicted participation and the strength of the associations.
     - Create a table that reports the regression model
         - Beta values

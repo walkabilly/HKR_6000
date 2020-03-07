@@ -3,9 +3,9 @@ title: "Statistics Assignment 4"
 author: "Daniel Fuller"
 date: "12/02/2020"
 output:
-  pdf_document: default
   html_document:
     keep_md: yes
+  pdf_document: default
 ---
 
 # Statistics Assignment 4 - Regression
