@@ -144,11 +144,13 @@ Week 4 | February 3 | Methods | Measurement and Sampling | Fields Ch. 3
 Week 5 | February 10 | Statistics | Correlation | Fields Ch. 4-5
 Week 6 | February 17 | Reading Week | Break | 
 Week 9 | February 24 | Statistics | Comparing Means | Fields Ch. 9
-Week 7 | March 2 | Methods | Research Design 1 | 
-Week 8 | March 9 | Methods | Research Design 2 | 
-Week 10 | March 13 | Statistics | Regression | Fields Fields Ch. 7 (3rd) - 8 (4th)
-Week 11 | March 16 | Statistics | ANOVA | Fields Fields Ch. 10 (3rd) - 11 (4th)
-Week 12 | March 23 | Statistics | Repeated Measures | Fields Fields Ch. 13 (3rd) - 14 (4th)
-Week 13 | March 30 | Methods | Survey Research | Newman et al 2009
-Week 14 | April 6 | Statistics | Multilevel Models | TBA
+Week 7 | March 2 | Statistics | Regression | Fields Fields Ch. 7 (3rd) - 8 (4th)
+Week 8 | March 9 | Statistics | ANOVA | Fields Fields Ch. 10 (3rd) - 11 (4th)
+Week 10 | March 13 | Statistics | Repeated Measures | Fields Fields Ch. 13 (3rd) - 14 (4th)
+Week 11 | March 16 | Statistics | Survey Research | Fields Fields Ch. 10 (3rd) - 11 (4th)
+Week 12 | March 23 | Statistics | Multilevel Models | [Multilevel Analysis in Public Health Research](https://www.annualreviews.org/doi/full/10.1146/annurev.publhealth.21.1.171)
+Week 13 | March 30 | Methods | Research Design | 
+Week 14 | April 6 | Statistics | Hackathon | TBA
 .      |            | Review   | Material Review | N/A
+
+
