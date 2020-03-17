@@ -87,9 +87,8 @@ Now assume that you do not have a hypothesis and are just looking at the general
 
 - Report the group differences in terms of the F-statistic, descriptive data, and post-hoc tests.
 - Conduct the following post-hoc tests  
-    - Tukey
-    - Games Howell
-    - REGWQ
-    - Dunnett
+    - Bonferonni (SPSS and R)
+    - Tukey (SPSS and R)
+    - Games Howell (SPSS and R)
 - Report one of the tests and provide a rational for selecting the test you did.
 - Report both p-values and confidence intervals
