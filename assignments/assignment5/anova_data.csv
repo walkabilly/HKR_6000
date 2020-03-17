@@ -1,31 +1,31 @@
-﻿group,relaxation
-3,50
-3,45
-3,48
-3,47
-3,45
-3,49
-3,50
-3,54
-3,57
-3,55
-2,63
-2,55
-2,54
-2,49
-2,65
-2,46
-2,53
-2,67
-2,58
-2,50
-1,71
-1,67
-1,68
-1,62
-1,65
-1,58
-1,63
-1,69
-1,70
-1,61
+id,group,stress
+1,yoga,50
+2,yoga,45
+3,yoga,48
+4,yoga,47
+5,yoga,45
+6,yoga,49
+7,yoga,50
+8,yoga,54
+9,yoga,57
+10,yoga,55
+11,guided imagery,63
+12,guided imagery,55
+13,guided imagery,54
+14,guided imagery,49
+15,guided imagery,65
+16,guided imagery,46
+17,guided imagery,53
+18,guided imagery,67
+19,guided imagery,58
+20,guided imagery,50
+21,placebo,71
+22,placebo,67
+23,placebo,68
+24,placebo,62
+25,placebo,65
+26,placebo,58
+27,placebo,63
+28,placebo,69
+29,placebo,70
+30,placebo,61
