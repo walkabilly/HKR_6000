@@ -1,0 +1,121 @@
+---
+title: "sa6_rmarkdown_example"
+author: "Daniel Fuller"
+date: "06/03/2020"
+output:
+  pdf_document: default
+  html_document:
+    keep_md: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## ANOVA
+
+### Checking the data
+
+Check the data as usual with descriptive statistics and data visualization (*** not shown)
+
+```{r}
+library(tidyverse)
+library(car)
+library(pairwiseComparisons)
+library(DescTools)
+
+stress_data <- read_csv("https://raw.githubusercontent.com/walkabilly/HKR_6000/master/assignments/assignment5/anova_data.csv")
+
+str(stress_data$group)
+str(stress_data$stress)
+```
+
+### Descriptive statistics
+
+```{r}
+summary(stress_data$stress)
+```
+
+### Changing the level order 
+
+```{r}
+stress_data$group <- fct_relevel(stress_data$group, c("placebo", "guided imagery", "yoga"))
+```
+
+### Histogram
+
+```{r}
+stress_histogram <- ggplot(stress_data, aes(stress)) + 
+                  geom_histogram()
+plot(stress_histogram)
+```
+
+### Histogram by group
+
+```{r}
+relax_histo_group <- ggplot(stress_data, aes(stress)) + 
+                  geom_histogram() + 
+                  facet_wrap(~ group)
+plot(relax_histo_group)
+```
+
+### Scatter plot stress by group
+
+```{r}
+group_relaxation <- ggplot(stress_data, aes(x = group, y = stress)) + 
+                  geom_boxplot() 
+plot(group_relaxation)
+```
+
+### ANOVA analysis - Planned Contrasts
+
+```{r}
+# tell R which groups to compare
+# Must sum to 0
+
+c1 <- c(-1, .5, .5) # placebo vs. other groups
+c2 <- c(0, 1, -1) # yoga vs. guided imagery
+
+# combined the above 2 contrasts into a matrix
+mat <- cbind(c1,c2)
+
+# tell R that the matrix gives the contrasts you want
+contrasts(stress_data$group) <- mat
+
+### Run the anova
+anova_1 <- aov(stress ~ group, data = stress_data)
+summary.aov(anova_1) 
+confint(anova_1)
+
+### Output the ANOVA result
+summary.aov(anova_1, split=list(group=list("placebo vs. other groups"=1, "yoga vs. guided imagery" = 2))) 
+```
+
+### ANOVA analysis - Polynomial contrasts
+
+```{r}
+### Us the function get to polynomial contrats
+contrasts(stress_data$group) <- contr.poly(3)
+anova_2 <- aov(stress ~ group, data = stress_data)
+
+summary.aov(anova_2, split=list(group=list("linear"=1, "quadratic" = 2))) 
+```
+
+### Tukey posthoc test
+
+```{r}
+tukey_hsd_test<- PostHocTest(anova_1, method = "hsd")
+tukey_hsd_test
+
+bonf_test <- PostHocTest(anova_1, method = "bonferroni")
+bonf_test
+```
+
+### Games Howell
+
+```{r}
+pairwise_comp <- pairwise_comparisons(data = stress_data, x = group, y = stress, type = "parametric", var.equal = FALSE )
+pairwise_comp
+```
+
+
