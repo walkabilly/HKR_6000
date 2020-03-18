@@ -1,0 +1,81 @@
+﻿id,group,dose,iron_level
+1,no vitamin C,verylow,15
+2,no vitamin C,verylow,3
+3,no vitamin C,verylow,3
+4,no vitamin C,verylow,17
+5,no vitamin C,verylow,13
+6,no vitamin C,verylow,12
+7,no vitamin C,verylow,21
+8,no vitamin C,verylow,10
+9,no vitamin C,verylow,16
+10,no vitamin C,verylow,12
+11,vitamin C,verylow,11
+12,vitamin C,verylow,12
+13,vitamin C,verylow,9
+14,vitamin C,verylow,13
+15,vitamin C,verylow,12
+16,vitamin C,verylow,11
+17,vitamin C,verylow,12
+18,vitamin C,verylow,15
+19,vitamin C,verylow,6
+20,vitamin C,verylow,12
+1,no vitamin C,low,13
+2,no vitamin C,low,5
+3,no vitamin C,low,6
+4,no vitamin C,low,16
+5,no vitamin C,low,10
+6,no vitamin C,low,10
+7,no vitamin C,low,16
+8,no vitamin C,low,8
+9,no vitamin C,low,20
+10,no vitamin C,low,15
+11,vitamin C,low,4
+12,vitamin C,low,10
+13,vitamin C,low,12
+14,vitamin C,low,14
+15,vitamin C,low,11
+16,vitamin C,low,10
+17,vitamin C,low,19
+18,vitamin C,low,18
+19,vitamin C,low,6
+20,vitamin C,low,11
+1,no vitamin C,medium,18
+2,no vitamin C,medium,15
+3,no vitamin C,medium,15
+4,no vitamin C,medium,15
+5,no vitamin C,medium,8
+6,no vitamin C,medium,14
+7,no vitamin C,medium,24
+8,no vitamin C,medium,14
+9,no vitamin C,medium,18
+10,no vitamin C,medium,16
+11,vitamin C,medium,6
+12,vitamin C,medium,8
+13,vitamin C,medium,7
+14,vitamin C,medium,13
+15,vitamin C,medium,9
+16,vitamin C,medium,15
+17,vitamin C,medium,26
+18,vitamin C,medium,25
+19,vitamin C,medium,20
+20,vitamin C,medium,18
+1,no vitamin C,high,13
+2,no vitamin C,high,18
+3,no vitamin C,high,13
+4,no vitamin C,high,14
+5,no vitamin C,high,7
+6,no vitamin C,high,16
+7,no vitamin C,high,15
+8,no vitamin C,high,19
+9,no vitamin C,high,18
+10,no vitamin C,high,13
+11,vitamin C,high,13
+12,vitamin C,high,23
+13,vitamin C,high,6
+14,vitamin C,high,13
+15,vitamin C,high,12
+16,vitamin C,high,17
+17,vitamin C,high,19
+18,vitamin C,high,21
+19,vitamin C,high,21
+20,vitamin C,high,8
