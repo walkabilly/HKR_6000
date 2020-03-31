@@ -239,12 +239,12 @@ K-S test function includes 2 inputs. First, your variable, second the distributi
 
 
 ```r
-ks.test(data$depressionT1, rnorm)
+ks.test(data$depressionT1, pnorm)
 ```
 
 ```
-## Warning in ks.test(data$depressionT1, rnorm): ties should not be present
-## for the Kolmogorov-Smirnov test
+## Warning in ks.test(data$depressionT1, pnorm): ties should not be present for the
+## Kolmogorov-Smirnov test
 ```
 
 ```
@@ -252,7 +252,7 @@ ks.test(data$depressionT1, rnorm)
 ## 	One-sample Kolmogorov-Smirnov test
 ## 
 ## data:  data$depressionT1
-## D = 3.55, p-value < 2.2e-16
+## D = 0.8493, p-value < 2.2e-16
 ## alternative hypothesis: two-sided
 ```
 
