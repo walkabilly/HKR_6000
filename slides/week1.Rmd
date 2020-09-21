@@ -4,6 +4,8 @@ author: "Daniel Fuller"
 date: "21/09/2020"
 output:
   slidy_presentation: default
+  html_document:
+    keep_md: true
   ioslides_presentation: default
 ---
 
