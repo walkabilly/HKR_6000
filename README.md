@@ -105,14 +105,7 @@ Number | Topic | Edition & Chapter | Date | Assigment Description  | Sample | Gr
 
 ### Slides
 
-Week | Edition & Chapter | Date | Grade %
-------| ----------------- | ---- | -------
-Statistics Review | [Slides](https://walkabilly.github.io/HKR_6000/slides/week1.html) | January 27 | 1
-Exploring Data | 3rd and 4th Edition Chapter 4 and 5 | February 3 | 1
-Correlation | 3rd Edition Chapter 6, 4th Edition Chapter 7 | February 10 | 1
-Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 2 | 1
-ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 16 | 1
-
+[Slides](https://walkabilly.github.io/HKR_6000/slides/week1.html)
 
 ### Journal Article Critique
 Students will be required to complete three (3) journal article critiques based on the methodological and statistical concepts (see table below). Journal Article Critiques are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. Further details of the assignment will be provided in class and on D2L.
