@@ -15,7 +15,7 @@ For more details on authoring R presentations please visit <https://support.rstu
 
 iframe
 ========================================================
-<iframe src="https://anilz.shinyapps.io/Central_Limit_Theorem/" width: 100%; height: 500px;"></iframe>
+<iframe src="https://anilz.shinyapps.io/Central_Limit_Theorem/" width: 100%; height: 1000px;"></iframe>
 
 
 Slide With Code
