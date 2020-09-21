@@ -22,6 +22,7 @@ This is an R Markdown presentation. Markdown is a simple formatting syntax for a
 - Bullet 1
 - Bullet 2
 - Bullet 3
+- Bullet 4
 
 ## Slide with R Output
 
