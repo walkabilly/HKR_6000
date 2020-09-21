@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # HKR 6000 Quantitative Methods in Physical Education
 
 ## Instructor
@@ -97,6 +102,17 @@ Number | Topic | Edition & Chapter | Date | Assigment Description  | Sample | Gr
 4 | Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 16 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/stats_assignment_4.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_sps_example.sps) | 9.5
 5 | ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | April 6 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_sps_example.sps) | 7.5
 6 | Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | April 6 | [Description]() | [R]() - [SPSS]()  | 9.5
+
+### Slides
+
+Week | Edition & Chapter | Date | Grade %
+------| ----------------- | ---- | -------
+Statistics Review | [Slides](https://walkabilly.github.io/HKR_6000/slides/week1.html) | January 27 | 1
+Exploring Data | 3rd and 4th Edition Chapter 4 and 5 | February 3 | 1
+Correlation | 3rd Edition Chapter 6, 4th Edition Chapter 7 | February 10 | 1
+Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 2 | 1
+ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 16 | 1
+
 
 ### Journal Article Critique
 Students will be required to complete three (3) journal article critiques based on the methodological and statistical concepts (see table below). Journal Article Critiques are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. Further details of the assignment will be provided in class and on D2L.
