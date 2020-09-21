@@ -12,83 +12,124 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## ANOVA
+## Repeated Measures ANOVA
 
 ### Checking the data
-
-Check the data as usual with descriptive statistics and data visualization (*** not shown)
 
 ```{r}
 library(tidyverse)
 library(car)
-library(pairwiseComparisons)
-library(DescTools)
+library(kableExtra)
+library(rstatix)
 
-stress_data <- read_csv("https://raw.githubusercontent.com/walkabilly/HKR_6000/master/assignments/assignment5/anova_data.csv")
+iron_data <- read_csv("https://raw.githubusercontent.com/walkabilly/HKR_6000/master/assignments/assignment6/RM_ANOVA.csv")
 
-str(stress_data$group)
-str(stress_data$stress)
-```
+str(iron_data$id)
+iron_data$participant_id <- as.factor(iron_data$id)
+str(iron_data$id)
 
-### Descriptive statistics
-
-```{r}
-summary(stress_data$stress)
+str(iron_data$group)
+str(iron_data$dose)
+str(iron_data$iron_level)
 ```
 
 ### Changing the level order 
 
 ```{r}
-stress_data$group <- fct_relevel(stress_data$group, c("placebo", "guided imagery", "yoga"))
+iron_data$group <- fct_relevel(iron_data$group, c("no vitamin C", "vitamin C"))
+iron_data$dose <- fct_relevel(iron_data$dose, c("verylow", "low", "medium", "high"))
+```
+
+### Descriptive statistics
+
+```{r}
+summary(iron_data$iron_level)
+
+desc_group <- iron_data %>%
+                group_by(group, dose) %>%
+                  summarise(
+                    mean_group = mean(iron_level, na.rm = TRUE),
+                    sd_group = sd(iron_level, na.rm = TRUE),
+                    median_group = median(iron_level, na.rm = TRUE),
+                    variance_group = var(iron_level, na.rm = TRUE),
+                  )
+kable(desc_group, format = "markdown")
 ```
 
 ### Histogram
-
 ```{r}
-stress_histogram <- ggplot(stress_data, aes(stress)) + 
+iron_histogram <- ggplot(iron_data, aes(iron_level)) + 
                   geom_histogram()
-plot(stress_histogram)
+plot(iron_histogram)
 ```
 
 ### Histogram by group
 
 ```{r}
-relax_histo_group <- ggplot(stress_data, aes(stress)) + 
+iron_dose_histogram <- ggplot(iron_data, aes(iron_level)) + 
+                  geom_histogram() + 
+                  facet_wrap(~ dose)
+plot(iron_dose_histogram)
+```
+
+### Histogram by group
+
+```{r}
+iron_group_histogram <- ggplot(iron_data, aes(iron_level)) + 
                   geom_histogram() + 
                   facet_wrap(~ group)
-plot(relax_histo_group)
+plot(iron_group_histogram)
 ```
 
-### Scatter plot stress by group
+### Scatter plot iron by group by dose
 
 ```{r}
-group_relaxation <- ggplot(stress_data, aes(x = group, y = stress)) + 
+group_iron <- ggplot(iron_data, aes(x = dose, y = iron_level, fill = group)) + 
                   geom_boxplot() 
-plot(group_relaxation)
+plot(group_iron)
 ```
 
-### ANOVA analysis - Planned Contrasts
+### Adjusted scatter plot iron by group by dose
 
 ```{r}
-# tell R which groups to compare
-# Must sum to 0
+iron_data <- iron_data %>%
+                  group_by(id) %>%
+                    mutate(
+                      id_mean = mean(iron_level, na.rm = TRUE)
+                    )
 
-c1 <- c(-1, .5, .5) # placebo vs. other groups
-c2 <- c(0, 1, -1) # yoga vs. guided imagery
+iron_data$grand_mean <- mean(iron_data$iron_level)
 
-# combined the above 2 contrasts into a matrix
-mat <- cbind(c1,c2)
+iron_data$adj <- iron_data$grand_mean - iron_data$id_mean
 
-# tell R that the matrix gives the contrasts you want
-contrasts(stress_data$group) <- mat
+iron_data$adj_iron_data <- iron_data$adj + iron_data$iron_level
+```
+
+```{r}
+group_iron_adj <- ggplot(iron_data, aes(x = dose, y = adj_iron_data, fill = group)) + 
+                  geom_boxplot() 
+plot(group_iron_adj)
+```
+
+### Repeated Measures ANOVA analysis - Planned Contrasts
+
+Actually, we only have two groups so we don't need fancy contrasts here. 
+
+```{r}
+### We will adjust the error term in the ANOVA but basically it's the same calls as Assignment 5. 
+
+res.aov <- anova_test(data = iron_data, dv = iron_level, wid = participant_id, between = group, within = dose)
+get_anova_table(res.aov)
+
 
 ### Run the anova
-anova_1 <- aov(stress ~ group, data = stress_data)
-summary.aov(anova_1) 
-confint(anova_1)
+options(contrasts = c("contr.sum","contr.poly"))
+anova_1 <- aov(iron_level ~ group + Error(id/group), data = iron_data)
+summary(anova_1) 
 
-### Output the ANOVA result
-summary.aov(anova_1, split=list(group=list("placebo vs. other groups"=1, "yoga vs. guided imagery" = 2))) 
+
+results <- get_contrasts(anova_1)
+print(results$contrasts)
 ```
 
 ### ANOVA analysis - Polynomial contrasts

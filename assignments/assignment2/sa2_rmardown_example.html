@@ -429,7 +429,7 @@ typeof(data$income)</code></pre>
 <pre><code>##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
 ##   1.000   4.000   6.000   5.725   7.000   8.000</code></pre>
 <pre class="r"><code>summary(data$income1)</code></pre>
-<pre><code>##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+<pre><code>##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA&#39;s 
 ##   1.000   4.000   6.000   6.075   9.000   9.000      28</code></pre>
 <pre class="r"><code>table(data$mstat1)</code></pre>
 <pre><code>## 
@@ -584,14 +584,14 @@ plot(box_dep)</code></pre>
 <div id="kolmogorov-smirnov-test" class="section level2">
 <h2>Kolmogorov-Smirnov test</h2>
 <p>K-S test function includes 2 inputs. First, your variable, second the distribution you want to compare your distribution against. Here we put <code>rnorm</code> because we can to compare our distribution against a normal distribution.</p>
-<pre class="r"><code>ks.test(data$depressionT1, rnorm)</code></pre>
-<pre><code>## Warning in ks.test(data$depressionT1, rnorm): ties should not be present
-## for the Kolmogorov-Smirnov test</code></pre>
+<pre class="r"><code>ks.test(data$depressionT1, pnorm)</code></pre>
+<pre><code>## Warning in ks.test(data$depressionT1, pnorm): ties should not be present for the
+## Kolmogorov-Smirnov test</code></pre>
 <pre><code>## 
 ##  One-sample Kolmogorov-Smirnov test
 ## 
 ## data:  data$depressionT1
-## D = 3.55, p-value &lt; 2.2e-16
+## D = 0.8493, p-value &lt; 2.2e-16
 ## alternative hypothesis: two-sided</code></pre>
 </div>
 <div id="boxplot-for-income1" class="section level2">
@@ -623,7 +623,7 @@ plot(scatter_inc_dep)</code></pre>
 <pre><code>## Warning in cor.test.default(data$depressionT1, data$income1, method =
 ## &quot;spearman&quot;): Cannot compute exact p-value with ties</code></pre>
 <pre><code>## 
-##  Spearman's rank correlation rho
+##  Spearman&#39;s rank correlation rho
 ## 
 ## data:  data$depressionT1 and data$income1
 ## S = 3748046, p-value = 0.08249

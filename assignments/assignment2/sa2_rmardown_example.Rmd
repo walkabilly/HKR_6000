@@ -107,7 +107,7 @@ plot(box_dep)
 K-S test function includes 2 inputs. First, your variable, second the distribution you want to compare your distribution against. Here we put `rnorm` because we can to compare our distribution against a normal distribution.
 
 ```{r}
-ks.test(data$depressionT1, rnorm)
+ks.test(data$depressionT1, pnorm)
 ```
 
 ## Boxplot for `income1`
