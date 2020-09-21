@@ -8,7 +8,7 @@ output:
 ## Instructor
 Dr. Daniel Fuller  
 E-mail: dfuller@mun.ca  
-Office: PE2023  sdf sdf 
+Office: PE2023  
 
 ## Office Hours
 Time: Fridays from 10:30-11:30am (NL time)   
