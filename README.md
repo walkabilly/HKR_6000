@@ -111,10 +111,6 @@ Number | Topic | Edition & Chapter | Date | Assigment Description  | Sample | Gr
 5 | ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | April 6 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_sps_example.sps) | 7
 6 | Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | April 6 | [Description]() | [R]() - [SPSS]()  | 9
 
-### Slides
-
-[Slides](https://walkabilly.github.io/HKR_6000/slides/week1.html)
-
 ### Major Written Assignment
 Students are required to complete the final assignment. 
 
