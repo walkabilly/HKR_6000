@@ -7,13 +7,24 @@ output:
 
 ## Instructor
 Dr. Daniel Fuller  
-E-mail: dfuller@mun.ca  
-Office: PE2023  
+**E-mail**
+
+* dfuller@mun.ca  
+
+**Office**
+
+* PE2023  
 
 ## Office Hours
-Time: Fridays from 10:30-11:30am (NL time)   
-Location: PE1007 
+**Time**   
 
+* Synchronous - Mondays from 9:30-10:30am (NL time) 
+* Asynchronous - 1 hour video per week
+
+**Location**  
+
+* The internet
+    
 ## Prerequisites
 None
 
@@ -31,9 +42,9 @@ A critical examination of methodological research issues and quantitative resear
 
 ## Format and Procedures
 
-The general format of each class will include lectures and audio-visual presentations, discussions, and in-class learning activities.
+The general format of each week will include one asynchronous video discussing the key concepts for the week, one sychronous session working through applied problems related to the weeks content and on assignment to apply new knowledge. 
 
-This course will use this website and D2L as the method for course communication and to provide students with course materials (e.g., syllabus, handouts, instructions for assignments, readings, and course schedule). The course materials that are needed for each class will be posted on D2L a minimum of one (1) week prior to the class date. Prior to each class, students are expected to bring course materials to class, preferably on their own laptop. 
+This course will use this website and D2L as the method for course communication and to provide students with course materials (e.g., syllabus, handouts, instructions for assignments, readings, and course schedule). The course materials that are needed for each class will be posted on D2L a minimum of one (1) week prior to the class date. 
 
 ## Course Text
 - Fields, A. (2010). Discovering Statistics Using SPSS (3rd ed). London, England: Sage Publications. 
@@ -55,7 +66,6 @@ If an instructor alleges that academic misconduct has occurred for evaluative in
 
 Further information on academic integrity is outlined in the University Calendar 6.12: [http://www.mun.ca/regoff/calendar/sectionNo=REGS-0748](http://www.mun.ca/regoff/calendar/sectionNo=REGS-0748) Information regarding acceptable writing practices is available through the Writing Centre at [http://www.mun.ca/writingcentre/](http://www.mun.ca/writingcentre/)
 
-
 ## Accommodations for students with disabilities
 
 In compliance with the Memorial University’s policy and equal access laws, it is understood that appropriate academic accommodations may be required for student with disabilities. Please see the guide for full details [http://www.mun.ca/policy/site/policy.php?id=239](http://www.mun.ca/policy/site/policy.php?id=239).
@@ -64,10 +74,10 @@ In compliance with the Memorial University’s policy and equal access laws, it 
 
 Assignment | Percent | Due Date
 ------------------------------------ | ---- | ----
-Quizzes | 5% | See below
-Satistics Assignments | 32% | See below
-Journal Article Critique | 18% | February 117, March 30
-Major Written Assignment | 25% | March 9, April 13
+Quizzes | 10% | See below
+Satistics Assignments | 40% | See below
+Exploratory Data Analysis Part 1  | 10% | March 9, April 13
+Exploratory Data Analysis Part 2 | 20% | March 9, April 13
 Final Exam | 20% | TBA
  
 __Note 1.__ I purposefuly do not have penalties for late assignments in my courses. You will have the most success with this course if you submit the assignments the weeks suggested. There will be a steep learning curve. It will hurt. The faster you get over the learning curve, the easier, and more fun, your life will be in this course.  
@@ -75,22 +85,20 @@ __Note 1.__ I purposefuly do not have penalties for late assignments in my cours
 __Note 2.__ There are no specific formatting rules or guidelines for the course related to references. Use some type of reference formatting, APA and AMA are good choices. 
 
 ### Quizzes								
-Students will be required to complete a total of six (6) quizzes (weighted equally) based on the textbook readings for the course (see table below). Quizzes are to be completed on D2L before class on the due date. See table below for topics, associated readings, and due dates. Quizzes will be open book (i.e., you are allowed to have the textbook and any notes you make in front of you); however, you are not permitted to use any other resources or speak to any person (electronically or verbally) while completing the quiz. To prepare for the quiz read the appropriate chapter and make some notes for key points so that you can easily locate the answers while completing the quiz. Quizzes will generally consist of approximately 10 multiple choice questions and you will be allowed approximately 45 minutes (so you will have lots of time to complete the open book quiz). The first quiz consists of 15 multiple choice questions and you are allowed 60 minutes. If you have any technical problems while completing the quiz, please contact the instructor immediately via  email.
+Students will be required to complete a total of five (5) quizzes (weighted equally) based on the textbook readings for the course (see table below). Quizzes are to be completed on D2L before class on the due date. See table below for topics, associated readings, and due dates. Quizzes will be open book (i.e., you are allowed to have the textbook and any notes you make in front of you); however, you are not permitted to use any other resources or speak to any person (electronically or verbally) while completing the quiz. To prepare for the quiz read the appropriate chapter and make some notes for key points so that you can easily locate the answers while completing the quiz. Quizzes will generally consist of approximately 10 multiple choice questions and you will be allowed approximately 45 minutes (so you will have lots of time to complete the open book quiz). The first quiz consists of 15 multiple choice questions and you are allowed 60 minutes. If you have any technical problems while completing the quiz, please contact the instructor immediately via  email.
 
 Topic | Edition & Chapter | Date | Grade %
 ------| ----------------- | ---- | -------
-Statistics Review | 3rd and 4th Edition Chapter 1 and 2 | January 27 | 1
-Exploring Data | 3rd and 4th Edition Chapter 4 and 5 | February 3 | 1
-Correlation | 3rd Edition Chapter 6, 4th Edition Chapter 7 | February 10 | 1
-Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 2 | 1
-ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 16 | 1
+Statistics Review | 3rd and 4th Edition Chapter 1 and 2 | January 27 | 2
+Exploring Data | 3rd and 4th Edition Chapter 4 and 5 | February 3 | 2
+Correlation | 3rd Edition Chapter 6, 4th Edition Chapter 7 | February 10 | 2
+Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 2 | 2
+ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 16 | 2
 
 ### Statistics Assignments	
-Students will be required to complete five (5) statistical assignments (not weighted equally – see table below). Further details of the assignment will be provided in class and on D2L. Statistics Assignments are to be submitted via the appropriate D2L dropbox by 5:00pm. See table below for topics, associated readings, and due dates.
+Students will be required to complete six (6) statistical assignments. Further details of the assignment will be provided in class and on D2L. Statistics Assignments are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. See table below for topics, associated readings, and due dates.
 
-**NOTE**: There are 6 assignments listed below. Social Sciences/MPE students will complete Statistics Assignment 4: Regression which is 15% of your statistics assignment overall grade. Kinesiology/Exercise Science students will complete Statistics Assignment 6: Repeated Measures ANOVA which is 15% of your statistics assignment overall grade. There is only one (1) dropbox for Statistics Assignment 4/6.
-
-#### Tips and Tricks for statistics assignments are available   [here](https://github.com/walkabilly/HKR_6000/blob/master/tips_tricks.md)
+#### Tips and Tricks for statistics assignments are available [here](https://github.com/walkabilly/HKR_6000/blob/master/tips_tricks.md)
 
 #### Writing it up sections for statistics assignments are available here
 
@@ -99,67 +107,53 @@ Number | Topic | Edition & Chapter | Date | Assigment Description  | Sample | Gr
 1 | SPSS or R Environment | 3rd and 4th Edition Chapter 3 or R Handout| February 3 | [Description]() | [R]() - [SPSS]() | 3
 2 | Exploring Data & Correlation | 3rd and 4th Edition Chapter 4 and 5 | February 24 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/stats_assignment_2.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_rmardown_example.md) -  [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_sps_example.md) |  7
 3 | Comparing means | 3rd and 4th Edition Chapter 9 | March 2 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/stats_assignment_3.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_rmardown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_sps_example.md) | 5
-4 | Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 16 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/stats_assignment_4.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_sps_example.sps) | 9.5
-5 | ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | April 6 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_sps_example.sps) | 7.5
-6 | Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | April 6 | [Description]() | [R]() - [SPSS]()  | 9.5
+4 | Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 16 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/stats_assignment_4.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_sps_example.sps) | 9
+5 | ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | April 6 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_sps_example.sps) | 7
+6 | Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | April 6 | [Description]() | [R]() - [SPSS]()  | 9
 
 ### Slides
 
 [Slides](https://walkabilly.github.io/HKR_6000/slides/week1.html)
 
-### Journal Article Critique
-Students will be required to complete three (3) journal article critiques based on the methodological and statistical concepts (see table below). Journal Article Critiques are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. Further details of the assignment will be provided in class and on D2L.
+### Major Written Assignment
+Students are required to complete the final assignment. 
 
-Critique | Description | Grade % | Due Date | Description 
--------- | ----------- | ------- | --------- | --------
-Choice of 1 of 3 journal articles assigned by the instructor | General critique (800 words, bullet point or short sentences) | 8% | February 10 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/Journal-Article-Critique-1.md)
-Student Choice of article | Written (1200 word) critique of methods, design, and statistical analysis of a study | 10% | March 30 |  [Description](https://github.com/walkabilly/HKR_6000/blob/master/Journal-Article-Critique-2.md)
+Conduct an exploratory data analysis and write up your findings in the form of a detailed draft formatted for a potential target journal in your field. You can select from one of the provided datasets below or select one of your own datasets. Data sets (if not using supplied data) and a project proposal must be approved by the instructor. Students are encouraged to consult with the instructor and with their supervisor related to using a specific dataset. Minimum page length is 8 pages (~2000 words) and maximum is 15 (~3600 words) not including references and tables. 
 
-### Major Written Assignments
-Students are required to write a major paper and will submit a draft and a final paper. Students will select from one of the following three (3) options for your major written assignment  
+The exploratory data analysis should include 
+1. Introduction/literature review (~500 words)
+2. Method (~800 words)
+  - Design
+  - Data
+  - Analysis plan
+3. Results (~1000)
+  - Descriptive statistics
+  - Inferential statistics
+4. Discussion/conclusions (~500 words)
 
-**1. Option A - Methodology Assignment**  
+The assignment will be completed/submitted in 2 Parts  
 
-- Write a 2000-2500 word (not including title page or references) summary and critique of the quantitative methodologies and analyses used within a specific field of research. This is similar to a literature review which is an evaluation and summary of the knowledge and research within a specific field; however for this assignment rather than focussing on summarizing the knowledge of field you will summarize, evaluate and critique the methodologies and analyses within an area of research. This assignment is extremely useful to aid in the planning and development of a research study (e.g., your thesis). Topic must first be approved by instructor. Further details of the assignment will be provided in class and on D2L.   
-
-**2. Option B – Statistical and Methodological Issues Journal Manuscript**    
-
-- Write a 2500-3000 word publishable paper on general or specific statistical and methodical issues within the field of human kinetics and recreation. The primary objective is to highlight and discuss statistical and design issues which are commonly incurred and recommendations for future researchers grounded in literature. Your paper may discuss one issue in-depth or could present several issues. It may focus on only statistical issues, only methodological issues, or both. This assignment might be of interest to students who either a) have already proposed their thesis or are working on a specific project (i.e., design has already been decided) or b) have interest in learning more advanced statistical and design issues. Topic(s) must first be approved by instructor. Further details of the assignment will be provided in class and on D2L. Student papers may be considered as a basis for a co-publication or presentation with the instructor. 
- 
-**3. Option C – Research Journal Manuscript**
-
-- Write a publishable manuscript in a format suitable for publication in a journal within your major topic area. Minimum page length is 8 pages (~2000 words) and maximum is 15 (~3600 words) not including references and tables. A research problem and research questions will be developed based on a secondary data set. Students are responsible for acquiring their own data set – speak to your supervisor and instructors, look on-line, or visit the QEII library. Data sets and project proposal must be approved by the instructor. The manuscript should include 1) introduction/literature review, 2) methods (design and analysis) and description of data, 3) results, and 4) discussion/conclusions. This assignment might be of interest to students with intermediate research/statistical knowledge and experience. Further details of the assignment will be provided in class and on D2L. Student papers may be considered as a basis for a co-publication with the instructor and/or other authors. If submitted for publication, students should consult with the instructor prior to publication to discuss authorship.
-
-Students are encouraged to consult with the instructor and with their supervisor in selecting one of these options. The assignment will be completed/submitted in 2 Parts  
-
-#### 1. Part 1 consists of submitting a draft which is a minimum of 4 pages in length for Options A and B and submitting at least the results section of your manuscript for Option C. (20% of Assignment grade)
-#### 2. Part 2 consists of submitting the final paper. (80% of Assignment grade)
+#### 1. Part 1 consists of submitting a 4 page draft. (10% of course grade)
+#### 2. Part 2 consists of submitting the final paper. (20% of course grade)
 
 ### Final Exam
 
-Students will compelte an in-class 3 hour exam focussing on methodology and statistical topics/analysis learned throughout the course. Part A of the exam will first consist of multiple choice and short answers. Part B of the exam will be open book and will include the anlaysis of a data set.
+Students will compelte an online final exam focussing on methodology and statistical topics/analysis learned throughout the course. Part A of the exam will first consist of multiple choice and short answers. Part B of the exam will be open book and will include the anlaysis of a data set.
 
 ### Weekly Schedule
 
 Week | Date | Theme | Topic | Reading 
 ---- | ---- | ----- | ----- | --------
-Week 1 | January 12 | Other | Intro | N/A
-.                   | Statistics | Review | Fields Ch. 1-2
-Week 2 | January 20 | #SNOWMAGGEDON2020 |  | 
-Week 3 | January 27 | Methods | Research and Theory & Levels of Measurement | Thomas et al, 2005
-Week 4 | February 3 | Methods | Measurement and Sampling | Fields Ch. 3
-.      |            | Statistics   | Exploring Data | Fields Ch. 6 (3rd) - 7 (4th)
-.      |            | Other   | Assignment Orientation | N/A
-Week 5 | February 10 | Statistics | Correlation | Fields Ch. 4-5
-Week 6 | February 17 | Reading Week | Break | 
-Week 9 | February 24 | Statistics | Comparing Means | Fields Ch. 9
-Week 7 | March 2 | Statistics | Regression | Fields Ch. 7 (3rd) - 8 (4th)
-Week 8 | March 9 | Statistics | ANOVA | Fields Ch. 10 (3rd) - 11 (4th)
-Week 10 | March 13 | Statistics | Repeated Measures | Fields Ch. 13 (3rd) - 14 (4th)
-Week 11 | March 16 | Statistics | Survey Research | Fields Ch. 10 (3rd) - 11 (4th)
-Week 12 | March 23 | Methods | Research Design | 
-Week 13 | March 20 | Statistics | Multilevel Models | [Multilevel Analysis in Public Health Research](https://www.annualreviews.org/doi/full/10.1146/annurev.publhealth.21.1.171)
-Week 14 | April 6 | Statistics | Data Analysis Design Pattern | TBA
-.      |            | Review   | Material Review | N/A
-
-
+Week 1 | January 11 | Stats Review | Intro | N/A
+Week 2 | January 18 | Causality and Theory | Research Design | TBA
+Week 3 | January 25 | Methods | Quantitative Measurement | TBA
+Week 4 | February 1 | Methods | Research and Analysis Design | TBA
+Week 5 | February 8 | Statistics | Correlation | TBA
+Week 6 | February 15 | Statistics | Linear Regression | TBA
+Week 7 | February 22 | Read Week |  | 
+Week 8 | February 24 | Statistics | Comparing Means & ANOVA | TBA
+Week 9 | March 1 | Statistics | Repeated Measures | TBA
+Week 10 | March 8 | Statistics | Non Parametric Methods | TBA
+Week 11 | March 15 | Statistics | Data Visualization | TBA
+Week 12 | March 22 | Statistics | Statistics | Multilevel Models | [Multilevel Analysis in Public Health Research](https://www.annualreviews.org/doi/full/10.1146/annurev.publhealth.21.1.171)
+Week 13 | March 29  | Review | All The Things | 
