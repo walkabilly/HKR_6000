@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
   word_document: default
 ---
 
@@ -101,7 +101,7 @@ Q5 | ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 16 | 2
 Students will be required to complete six (6) statistical assignments. Further details of the assignment will be provided in class and on D2L. Statistics Assignments are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. See table below for topics, associated readings, and due dates.
 
 Number | Topic | Date | Description  | Code Sample | Grade %
-------| ------| ----------------- | ---- | ---------------------  | ------- | -------
+------ | ------ | ----------------- | ---- | ---------------------  | ------- 
 A1 | SPSS or R Environment |  February 3 | [Description]() | [R]() - [SPSS]() | 3
 A2 | Exploring Data | February 24 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/stats_assignment_2.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_rmardown_example.md) -  [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_sps_example.md) |  7
 A3 | Comparing means | March 2 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/stats_assignment_3.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_rmardown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_sps_example.md) | 5
