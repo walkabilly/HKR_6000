@@ -1,8 +1,10 @@
 ---
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
+  word_document: default
 ---
+
 # HKR 6000 Quantitative Methods in Physical Education
 
 ## Instructor
@@ -80,36 +82,32 @@ Exploratory Data Analysis Part 1  | 10% | March 9, April 13
 Exploratory Data Analysis Part 2 | 20% | March 9, April 13
 Final Exam | 20% | TBA
  
-__Note 1.__ I purposefuly do not have penalties for late assignments in my courses. You will have the most success with this course if you submit the assignments the weeks suggested. There will be a steep learning curve. It will hurt. The faster you get over the learning curve, the easier, and more fun, your life will be in this course.  
+__Note 1.__ I purposefuly do not have penalties for late assignments. You will have the most success with this course if you submit the assignments on time. There will be a steep learning curve. It will hurt. The faster you get over the learning curve, the easier, and more fun, your life will be in this course.  
 
-__Note 2.__ There are no specific formatting rules or guidelines for the course related to references. Use some type of reference formatting, APA and AMA are good choices. 
+__Note 2.__ There are no specific formatting rules or guidelines for the course. Use some type of reference formatting, APA and AMA are good choices. 
 
 ### Quizzes								
 Students will be required to complete a total of five (5) quizzes (weighted equally) based on the textbook readings for the course (see table below). Quizzes are to be completed on D2L before class on the due date. See table below for topics, associated readings, and due dates. Quizzes will be open book (i.e., you are allowed to have the textbook and any notes you make in front of you); however, you are not permitted to use any other resources or speak to any person (electronically or verbally) while completing the quiz. To prepare for the quiz read the appropriate chapter and make some notes for key points so that you can easily locate the answers while completing the quiz. Quizzes will generally consist of approximately 10 multiple choice questions and you will be allowed approximately 45 minutes (so you will have lots of time to complete the open book quiz). The first quiz consists of 15 multiple choice questions and you are allowed 60 minutes. If you have any technical problems while completing the quiz, please contact the instructor immediately via  email.
 
-Topic | Edition & Chapter | Date | Grade %
-------| ----------------- | ---- | -------
-Statistics Review | 3rd and 4th Edition Chapter 1 and 2 | January 27 | 2
-Exploring Data | 3rd and 4th Edition Chapter 4 and 5 | February 3 | 2
-Correlation | 3rd Edition Chapter 6, 4th Edition Chapter 7 | February 10 | 2
-Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 2 | 2
-ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 16 | 2
+Number | Topic | Edition & Chapter | Date | Grade %
+------| ------| ----------------- | ---- | -------
+Q1 | Statistics Review | 3rd and 4th Edition Chapter 1 and 2 | January 27 | 2
+Q2 | Exploring Data | 3rd and 4th Edition Chapter 4 and 5 | February 3 | 2
+Q3 | Correlation | 3rd Edition Chapter 6, 4th Edition Chapter 7 | February 10 | 2
+Q4 | Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 2 | 2
+Q5 | ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 16 | 2
 
 ### Statistics Assignments	
 Students will be required to complete six (6) statistical assignments. Further details of the assignment will be provided in class and on D2L. Statistics Assignments are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. See table below for topics, associated readings, and due dates.
 
-#### Tips and Tricks for statistics assignments are available [here](https://github.com/walkabilly/HKR_6000/blob/master/tips_tricks.md)
-
-#### Writing it up sections for statistics assignments are available here
-
-Number | Topic | Edition & Chapter | Date | Assigment Description  | Sample | Grade %
+Number | Topic | Date | Description  | Code Sample | Grade %
 ------| ------| ----------------- | ---- | ---------------------  | ------- | -------
-1 | SPSS or R Environment | 3rd and 4th Edition Chapter 3 or R Handout| February 3 | [Description]() | [R]() - [SPSS]() | 3
-2 | Exploring Data & Correlation | 3rd and 4th Edition Chapter 4 and 5 | February 24 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/stats_assignment_2.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_rmardown_example.md) -  [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_sps_example.md) |  7
-3 | Comparing means | 3rd and 4th Edition Chapter 9 | March 2 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/stats_assignment_3.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_rmardown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_sps_example.md) | 5
-4 | Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 16 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/stats_assignment_4.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_sps_example.sps) | 9
-5 | ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | April 6 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_sps_example.sps) | 7
-6 | Repeated Measures | 3rd Edition Chapter 13, 4th Edition Chapter 14 | April 6 | [Description]() | [R]() - [SPSS]()  | 9
+A1 | SPSS or R Environment |  February 3 | [Description]() | [R]() - [SPSS]() | 3
+A2 | Exploring Data | February 24 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/stats_assignment_2.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_rmardown_example.md) -  [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_sps_example.md) |  7
+A3 | Comparing means | March 2 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/stats_assignment_3.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_rmardown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_sps_example.md) | 5
+A4 | Regression | March 16 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/stats_assignment_4.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_sps_example.sps) | 9
+A5 | ANOVA | April 6 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_sps_example.sps) | 7
+A6 | Repeated Measures | April 6 | [Description]() | [R]() - [SPSS]()  | 9
 
 ### Major Written Assignment
 Students are required to complete the final assignment. 
@@ -138,18 +136,18 @@ Students will compelte an online final exam focussing on methodology and statist
 
 ### Weekly Schedule
 
-Week | Date | Theme | Topic | Reading 
----- | ---- | ----- | ----- | --------
-Week 1 | January 11 | Stats Review | Intro | N/A
-Week 2 | January 18 | Causality and Theory | Research Design | TBA
-Week 3 | January 25 | Methods | Quantitative Measurement | TBA
-Week 4 | February 1 | Methods | Research and Analysis Design | TBA
-Week 5 | February 8 | Statistics | Correlation | TBA
-Week 6 | February 15 | Statistics | Linear Regression | TBA
-Week 7 | February 22 | Read Week |  | 
-Week 8 | February 24 | Statistics | Comparing Means & ANOVA | TBA
-Week 9 | March 1 | Statistics | Repeated Measures | TBA
-Week 10 | March 8 | Statistics | Non Parametric Methods | TBA
-Week 11 | March 15 | Statistics | Data Visualization | TBA
-Week 12 | March 22 | Statistics | Statistics | Multilevel Models | [Multilevel Analysis in Public Health Research](https://www.annualreviews.org/doi/full/10.1146/annurev.publhealth.21.1.171)
-Week 13 | March 29  | Review | All The Things | 
+Week | Date | Theme | Topic | Assignment | Due Date
+---- | ---- | ----- | ----- | -------- | --------
+Week 1 | January 11 | Statistics | Intro | Q1 | Janury 15
+Week 2 | January 18 | Methods | Research Design | A1 | Janury 22
+Week 3 | January 25 | Methods | Quantitative Measurement | Q2, A2 | Janury 29
+Week 4 | February 1 | Methods | Research and Analysis Design |  | 
+Week 5 | February 8 | Statistics | Correlation | Q3 | February 12
+Week 6 | February 15 | Statistics | Linear Regression | A3 | February 19
+Week 7 | February 22 | Reading Week |  |  | 
+Week 8 | February 29 | Statistics | Comparing Means & ANOVA | Q4, A4 | March 5
+Week 9 | March 1 | Statistics | Repeated Measures | Final Assignment Part 1 | March 12
+Week 10 | March 8 | Statistics | Non Parametric Methods | Q5, A5 | March 19
+Week 11 | March 15 | Statistics | Data Visualization | A6 | March 26
+Week 12 | March 22 | Statistics | Multilevel Models |  |  |  | 
+Week 13 | March 29  | Review | All The Things | Final Assignment Part 2 | April 9
