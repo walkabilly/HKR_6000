@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # HKR 6000 Quantitative Methods in Physical Education
 
 ## Instructor
@@ -96,7 +101,7 @@ Students will be required to complete six (6) statistical assignments. Further d
 Number | Topic | Date | Description  | Code Sample | Grade %
 ------ | ------ | ----------------- | ---- | ---------------------  | ------- 
 A1 | SPSS or R Environment |  February 3 | [Description]() | [R]() - [SPSS]() | 3
-A2 | Exploring Data | February 24 | [Description](https://walkabilly.github.io/HKR_6000/blob/master/assignments/assignment2/stats_assignment_2.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_rmardown_example.md) -  [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_sps_example.md) |  7
+A2 | Exploring Data | February 24 | [Description](https://walkabilly.github.io/HKR_6000/assignments/assignment2/stats_assignment_2.html) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_rmardown_example.md) -  [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_sps_example.md) |  7
 A3 | Comparing means | March 2 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/stats_assignment_3.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_rmardown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_sps_example.md) | 5
 A4 | Regression | March 16 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/stats_assignment_4.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_sps_example.sps) | 9
 A5 | ANOVA | April 6 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_sps_example.sps) | 7
@@ -138,9 +143,9 @@ Week 4 | February 1 | Methods | Research and Analysis Design |  |
 Week 5 | February 8 | Statistics | Correlation | Q3 | February 12
 Week 6 | February 15 | Statistics | Linear Regression | A3 | February 19
 Week 7 | February 22 | Reading Week |  |  | 
-Week 8 | February 29 | Statistics | Comparing Means & ANOVA | Q4, A4 | March 5
-Week 9 | March 1 | Statistics | Repeated Measures | Final Assignment Part 1 | March 12
-Week 10 | March 8 | Statistics | Non Parametric Methods | Q5, A5 | March 19
-Week 11 | March 15 | Statistics | Data Visualization | A6 | March 26
-Week 12 | March 22 | Statistics | Multilevel Models |  |  |  | 
-Week 13 | March 29  | Review | All The Things | Final Assignment Part 2 | April 9
+Week 8 | March 1 | Statistics | Comparing Means & ANOVA | Q4, A4 | March 5
+Week 9 | March 8 | Statistics | Repeated Measures | Final Assignment Part 1 | March 12
+Week 10 | March 15 | Statistics | Non Parametric Methods | Q5, A5 | March 19
+Week 11 | March 22 | Statistics | Data Visualization | A6 | March 26
+Week 12 | March 29  | Review | All The Things | Final Assignment Part 2 | April 9
+
