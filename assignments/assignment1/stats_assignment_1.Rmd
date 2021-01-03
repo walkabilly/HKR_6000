@@ -1,0 +1,91 @@
+---
+title: "Statistics Assignment 1"
+author: "Daniel Fuller"
+output:
+      html_document:
+        keep_md: true
+---
+
+# Statistics Assignment 1 - Explore Data
+
+## General instructions
+
+You must submit the following. 
+
+**SPSS**
+  - Syntax file
+  - Report in Word doc form with tables/figures cut and pasted from SPS output file
+
+**R**
+  - RMarkdown file
+  - Knit report in HTML or PDF
+
+## Part 1 - Explore the data 
+
+1. Identify the variable types for each variable in the dataset
+2. Calculate the BMI for each participant
+3. Calculate a young and old variable as per data dictionary
+4. Calculate the mean and standard deviation
+    * For the variables were it is appropriate
+    * Including the new variables you have created
+5. Calculate the frequencies 
+    For the variables were it is appropriate to do so
+6. Draw the histogram
+    * Discuss the normality of the data 
+7. Are there missing data? 
+8. Are there outliers? 
+
+## Part 2 - Format and Effort 
+
+### General Formatting
+- A combination sentences/paragraphs with some bullet points is appropriate.
+- Include a list of references where appropriate. For this assignment, you do not need to worry
+about providing references to the scales/items within the dataset.
+
+### OVERALL
+- Assignments will be evaluated based on the overall effort and thoroughness of the assignment, attention to details, and overall presentation of results.
+
+## Data
+
+### Purpose
+These are simulated data that I created.
+
+**Variables**		
+
+Name	| Description |	Units 
+----- | ----------- | -----  
+id | 	Unique identifer for each individual participant | 	NA 
+age_years | 	Age in years | 	years 
+bench_press_max_lbs | 	1 rep max bench press in pounds | 	pounds 
+height_cm | 	Height in centimeters | 	centimeters 
+weight_kg | 	Weight in kilograms | 	kilograms 
+age_category | 	Age category where less than 40 years old = young and <= 40 years old = old |	NA 
+
+### Methods
+#### Design
+This study used a cross-sectional survey research design to examine the differences in the associations between age, height, weight, and bench press max.
+
+#### Sample
+The population for this study consisted of individuals residing in the St. John’s area. A sample (n = 10,000) participants were recruited to come into the lab. 
+
+#### Dependent Variable
+
+Bench press max 
+
+* Bench press max was measured using a 1RM bench press test for each participant. Participants were instructed to warm up properly and completed the PAR-Q prior to begining exercising. 
+
+##### Independent Variables
+
+Age
+
+* Participants were asked their age in years, months, and days. 
+
+Height
+
+* Height was measured using a stadiometer
+
+Weight
+
+* Weight was measured using a calibrated scale
+
+
