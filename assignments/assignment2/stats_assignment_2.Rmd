@@ -57,7 +57,7 @@ Points).
 - Discussion should include the direction, strength and statistical significance of the correlation.
 Make sure you not only report the statistics/numbers but also discuss the relation of the variables in words.  
 
-## Step 5 - Format and Efforst (28 Points)
+## Step 5 - Format and Effort (28 Points)
 
 ### General Formatting (28 Points)
 - A combination sentences/paragraphs with some bullet points is appropriate.
