@@ -2,8 +2,10 @@
 title: "Statistics Assignment 1"
 author: "Daniel Fuller"
 output:
-      html_document:
-        keep_md: true
+  pdf_document: default
+  html_document:
+    keep_md: yes
+  word_document: default
 ---
 
 # Statistics Assignment 1 - Explore Data
