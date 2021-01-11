@@ -71,8 +71,8 @@ Assignment | Percent | Due Date
 ------------------------------------ | ---- | ----
 Quizzes | 10% | See below
 Satistics Assignments | 40% | See below
-Exploratory Data Analysis Part 1  | 10% | March 9, April 13
-Exploratory Data Analysis Part 2 | 20% | March 9, April 13
+Exploratory Data Analysis Part 1  | 10% | March 12
+Exploratory Data Analysis Part 2 | 20% | April 9
 Final Exam | 20% | TBA
  
 __Note 1.__ I purposefuly do not have penalties for late assignments. You will have the most success with this course if you submit the assignments on time. There will be a steep learning curve. It will hurt. The faster you get over the learning curve, the easier, and more fun, your life will be in this course.  
@@ -82,25 +82,25 @@ __Note 2.__ There are no specific formatting rules or guidelines for the course.
 ### Quizzes								
 Students will be required to complete a total of five (5) quizzes (weighted equally) based on the textbook readings for the course (see table below). Quizzes are to be completed on D2L before class on the due date. See table below for topics, associated readings, and due dates. Quizzes will be open book (i.e., you are allowed to have the textbook and any notes you make in front of you); however, you are not permitted to use any other resources or speak to any person (electronically or verbally) while completing the quiz. To prepare for the quiz read the appropriate chapter and make some notes for key points so that you can easily locate the answers while completing the quiz. Quizzes will generally consist of approximately 10 multiple choice questions and you will be allowed approximately 45 minutes (so you will have lots of time to complete the open book quiz). The first quiz consists of 15 multiple choice questions and you are allowed 60 minutes. If you have any technical problems while completing the quiz, please contact the instructor immediately via  email.
 
-Number | Topic | Edition & Chapter | Date | Grade %
-------| ------| ----------------- | ---- | -------
-Q1 | Statistics Review | 3rd and 4th Edition Chapter 1 and 2 | January 27 | 2
-Q2 | Exploring Data | 3rd and 4th Edition Chapter 4 and 5 | February 3 | 2
-Q3 | Correlation | 3rd Edition Chapter 6, 4th Edition Chapter 7 | February 10 | 2
-Q4 | Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 | March 2 | 2
-Q5 | ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | March 16 | 2
+Number | Topic | Edition & Chapter  | Grade %
+------| ------| ----------------- | -------
+Q1 | Statistics Review | 3rd and 4th Edition Chapter 1 and 2 | 2
+Q2 | Exploring Data | 3rd and 4th Edition Chapter 4 and 5 |  2
+Q3 | Correlation | 3rd Edition Chapter 6, 4th Edition Chapter 7 |  2
+Q4 | Regression | 3rd Edition Chapter 7, 4th Edition Chapter 8 |  2
+Q5 | ANOVA | 3rd Edition Chapter 10, 4th Edition Chapter 11 | 2
 
 ### Statistics Assignments	
 Students will be required to complete six (6) statistical assignments. Further details of the assignment will be provided in class and on D2L. Statistics Assignments are to be submitted via the appropriate D2L dropbox by 5:00pm on the due date. See table below for topics, associated readings, and due dates.
 
-Number | Topic | Date | Description  | Code Sample | Grade %
------- | ------ | ----------------- | ---- | ---------------------  | ------- 
-A1 | SPSS or R Environment |  February 3 | [Description]() | [R]() - [SPSS]() | 3
-A2 | Exploring Data | February 24 | [Description](https://walkabilly.github.io/HKR_6000/assignments/assignment2/stats_assignment_2.html) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_rmardown_example.md) -  [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_sps_example.md) |  7
-A3 | Comparing means | March 2 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/stats_assignment_3.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_rmardown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_sps_example.md) | 5
-A4 | Regression | March 16 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/stats_assignment_4.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_sps_example.sps) | 9
-A5 | ANOVA | April 6 | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_sps_example.sps) | 7
-A6 | Repeated Measures | April 6 | [Description]() | [R]() - [SPSS]()  | 9
+Number | Topic | Description  | Code Sample | Grade %
+------ | ------ | ----------------- | ---- | -------------
+A1 | SPSS or R Environment | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment1/stats_assignment_1.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment1/sa1_rmardown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment1/sa1_sps_example.md) | 3
+A2 | Exploring Data | [Description](https://walkabilly.github.io/HKR_6000/assignments/assignment2/stats_assignment_2.html) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_rmardown_example.md) -  [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment2/sa2_sps_example.md) |  7
+A3 | Comparing means | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/stats_assignment_3.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_rmardown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_sps_example.md) | 5
+A4 | Regression | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/stats_assignment_4.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_sps_example.sps) | 9
+A5 | ANOVA | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_sps_example.sps) | 7
+A6 | Repeated Measures | [Description]() | [R]() - [SPSS]()  | 9
 
 ### Major Written Assignment
 Students are required to complete the final assignment. 
