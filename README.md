@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # HKR 6000 Quantitative Methods in Physical Education
 
 ## Instructor
