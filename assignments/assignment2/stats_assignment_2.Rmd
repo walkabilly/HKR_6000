@@ -3,8 +3,9 @@ title: "Statistics Assignment 2"
 author: "Daniel Fuller"
 date: "12/02/2020"
 output:
-      html_document:
-        keep_md: true
+  pdf_document: default
+  html_document:
+    keep_md: yes
 ---
 
 # Statistics Assignment 2 - Correlation
@@ -23,54 +24,65 @@ You must submit the following.
 
 ## Part 1
 
-### State a research question and state the independent and dependent variables (13 Points)
+### State a research question and state the independent and dependent variables 
 
 State a research question based on the data (should include 2 variables).  
 
 - You can select 2 variables from any of 4 main continuous variables included in the data set.  
+    - Potential choices are
+        * Physical activity score
+        * Motivation score
+        * Barriers score
+        * Age
 - You will have 1 independent and 1 dependent variables.   
-    - Note: since this data is correlational (i.e., collected at only one time) there is not really a predictor/independent or outcome/dependent variable. Rather you are exploring the relation between variables 
+    - Note: since this data is cross-sectional (i.e., collected at only one time) there is not really a predictor/independent or outcome/dependent variable. Rather you are exploring the relation between variables 
 - Both of your variables must be continuous variables.   
 - One of your variables must be a composite score (i.e., compute a summed score)  
 - State and describe the variables
 
-## Part 2 - Describe the sample (10 Points)
+## Part 2 - Describe the sample 
 
 - Discuss the appropriate descriptive statistics (i.e., frequencies, mean, standard deviation, etc.) of socio-demographic variables.
+    * Socio-demographic variables are
+        * Sex = Sex	
+        * Birth Year = Year
+        * Education Category - Educat
+        * Marital Status = Marist
+        * Income Category = Income
+        * Employement Status = Employ
 
-## Part 3 - Explore the data (40 Points)
+## Part 3 - Explore the data 
 
-- Discuss the normality of the data (24 Points).  
+- Discuss the normality of the data .  
 - Must report and discuss the following for all main variables (IV & DV):
     - Histograms
     - Skewness & Kurtosis
-    - Kolmogorov-Smirnov test
-- Identify and discuss any outliers by presenting boxplots for all main variables (IV & DV) (4
-Points).  
-- Descriptive statistics for all main variables (IV & DV) (mean, standard deviation, and standard error)
-(12 Points).  
+- Identify and discuss any outliers by presenting boxplots for all main variables (IV & DV).  
+- Descriptive statistics for all main variables (IV & DV) (mean, standard deviation, and standard error).  
 
-## Step 4 - Correlation (18 Points)
+## Part 4 - Correlation 
 
 - Create a scatter plot of your independent and dependent variables. In 1-2 sentences discuss the scatter plot.  
-- Analyze, report and discuss the correlation between your independent and dependent variables.  Make sure you report the type of correlation you conducted and provide a rationale (with a citation) for selecting that particular correlation.    
+- Analyze, report and discuss the correlation between your independent and dependent variables. 
+- Make sure you report the type of correlation you conducted and provide a rationale (with a citation) for selecting that particular correlation.    
 - Discussion should include the direction, strength and statistical significance of the correlation.
-Make sure you not only report the statistics/numbers but also discuss the relation of the variables in words.  
+- Make sure you not only report the statistics/numbers but also discuss the relation of the variables in words.
 
-## Step 5 - Format and Effort (28 Points)
 
-### General Formatting (28 Points)
+## Part 5 - Format and Effort 
+
+### General Formatting 
 - A combination sentences/paragraphs with some bullet points is appropriate.
 - Include a list of references where appropriate. For this assignment, you do not need to worry
 about providing references to the scales/items within the dataset.
 
-### OVERALL (10 Points)
+### OVERALL 
 - Assignments will be evaluated based on the overall effort and thoroughness of the assignment, attention to details, and overall presentation of results.
 
 ## Data
 
 ### Purpose
-The purpose of this pilot study was to explore differences among active and non-active older adults in terms of urban versus rural status, reasons for participation in physical activity, socio- demographics, subjective health and well-being. For this assignment, not all of the variables will be presented.
+The purpose of this pilot study was to explore differences among active and non-active older adults in terms of urban versus rural status, reasons for participation in physical activity, socio-demographics, subjective health and well-being. For this assignment, not all of the variables will be presented.
 
 
 ### Methods
@@ -82,7 +94,7 @@ The population for this study consisted of community-dwelling older adults, 65 y
 
 #### Survey Instrumentation
 
-- You will need to compute/calculate the total scores for at least 2 of the following variables based on the scoring information below.   
+- You will need to compute/calculate the total scores for the 2 following variables based on the scoring information below.   
 - See “Exercise&OlderAdultSurvey_Coded_Loucks-Atkinson&Rohr” where you will find the variable names for each item on the scales. Use this information to calculate the scores.
 
 ##### Physical Activity
