@@ -7,9 +7,15 @@ output:
         keep_md: true
 ---
 
-## Writring it up 
+## Writing it up 
 
 Sections on how to write the results of specific statistical tests. This is mostly summarized from Dr. Angela Loucks-Atkinson. 
+
+### Scatter Plot
+
+```{}
+Figure 1 illustrates a scatter plot of activity restriction in sports and recreation and depression.  This graph illustrates that there does not generally appear to be a linear relationship between activity restriction in sports and recreation and depression.  However, it does appear that in general, individuals with greater activity restriction did experience more depressive symptoms.  Additionally, the graph illustrates that are several outliers; in particular individuals who have relatively low levels of activity restriction but have very high levels of depression. 
+```
 
 ### Correlation
 
