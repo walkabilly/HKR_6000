@@ -3,55 +3,25 @@ title: "sa1_notes"
 author: "Daniel Fuller"
 date: "17/02/2020"
 output:
-      html_document:
-        keep_md: true
+  html_document:
+    keep_md: yes
+  pdf_document: default
 ---
 
 
 
 ## Comments on assignment 1 
 
-## 1. Be very aware of missing data
+## 1. Watch out with descriptive statistics for Qualitative variables
 
-#### SPSS 
+For a qualitative variable the mean is not useful. When you present descriptives for a qualitative variable you will need to present the n (number of cases in each group) and the % (percent of cases in each group compared to the total). 
 
-SPSS make sure you code your data correctly. You can use a blank cell to define missing as below. If you code something and run descriptive statistics make sure you know your total without missing and how many rows each descriptive statistic was calculated on. 
+## 2. Check your calculations
 
-![](images/NA_spss.png)
+2.1 For the age_category variable many people did not calcualted correctly and had a small number of people who were not coded correctly. You can check your work by going a cross-tabulation between the age variable and the new age_category variables. 
 
-Make sure you code the missing the correct place. Coding missing as a value label is the same is coding NA as a value in R. The statistical program thinks it's a factor level, rather than a missing. 
+2.2 Remember in our BMI variable that the cause of the outliers is our weight variable. Make sure that you understand and describe the cause of the problem. You need to fix weight and rerun BMI calculations (after checking that the formula is correct) before you can really comment on whether BMI has outliers. We will work on this next week. 
 
-![](images/NA_spss1.png)
+## 3. Weight outliers versus incorrect values
 
-R, there is a difference between "N/A" and NA. "N/A" is a factor level that does not represent missing. NA represents missing and highlights (purple in my case). If you export a CSV file "N/A" with be N/A in the file. NA will be an empty cell. 
-
-![](images/NA_R1.png)
-
-![](images/NA_R2.png)
-
-## 2. What type of variable is it? 
-
-Be careful with your variable types. In R using " " will give you a character variable. If you want numeric you can use unquoted text. Use `str` to check the type of variable you have. You can use common recode functions.  
-- `as.numeric`
-- `as.factor`
-- `as.character`
-
-
-```r
-coach1 <- c(1, 2, 3, 4, 5, 6, NA, 7, 8)
-str(coach1)
-```
-
-```
-##  num [1:9] 1 2 3 4 5 6 NA 7 8
-```
-
-```r
-coach1_factor <- as.factor(coach1)
-str(coach1_factor)
-```
-
-```
-##  Factor w/ 8 levels "1","2","3","4",..: 1 2 3 4 5 6 NA 7 8
-```
-
+The weight variable has some problems. The low end values for weight are very low. They are not biologically plausible. It is not possible from someone aged 18 years and being around 100cm tall to weigh 10kg. I would consider these values to be not plausible but they are not really outliers. The histogram shows that the low end values for weight are low, but are definitely consistent with the distribution. They are not way off of the histogram. I would consider these values incorrect and not plausible, but not outliers. 
