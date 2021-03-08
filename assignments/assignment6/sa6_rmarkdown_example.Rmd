@@ -3,9 +3,9 @@ title: "sa6_rmarkdown_example"
 author: "Daniel Fuller"
 date: "06/03/2020"
 output:
-  pdf_document: default
   html_document:
     keep_md: yes
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -21,6 +21,9 @@ library(tidyverse)
 library(car)
 library(kableExtra)
 library(rstatix)
+library(lmerTest)
+library(pairwiseComparisons)
+library(DescTools)
 
 iron_data <- read_csv("https://raw.githubusercontent.com/walkabilly/HKR_6000/master/assignments/assignment6/RM_ANOVA.csv")
 
@@ -113,22 +116,20 @@ plot(group_iron_adj)
 
 ### Repeated Measures ANOVA analysis - Planned Contrasts
 
-Actually, we only have two groups so we don't need fancy contrasts here. 
+We only have two groups so we don't need fancy contrasts here. 
 
-```{r}
+```{}
 ### We will adjust the error term in the ANOVA but basically it's the same calls as Assignment 5. 
 
-res.aov <- anova_test(data = iron_data, dv = iron_level, wid = participant_id, between = group, within = dose)
-get_anova_table(res.aov)
-
+res_aov <- rstatix::anova_test(data = iron_data, dv = iron_level, wid = participant_id, between = group, within = dose)
+get_anova_table(res_aov)
 
 ### Run the anova
 options(contrasts = c("contr.sum","contr.poly"))
 anova_1 <- aov(iron_level ~ group + Error(id/group), data = iron_data)
 summary(anova_1) 
 
-
-results <- get_contrasts(anova_1)
+results <- lmerTest::get_contrasts_type1(anova_1)
 print(results$contrasts)
 ```
 
@@ -136,27 +137,69 @@ print(results$contrasts)
 
 ```{r}
 ### Us the function get to polynomial contrats
-contrasts(stress_data$group) <- contr.poly(3)
-anova_2 <- aov(stress ~ group, data = stress_data)
+contrasts(iron_data$dose) <- contr.poly(4)
+anova_2 <- aov(iron_level ~ group, data = iron_data)
 
 summary.aov(anova_2, split=list(group=list("linear"=1, "quadratic" = 2))) 
 ```
 
-### Tukey posthoc test
+# Linear model for RM anova
+
+## Between Model
 
 ```{r}
-tukey_hsd_test<- PostHocTest(anova_1, method = "hsd")
-tukey_hsd_test
-
-bonf_test <- PostHocTest(anova_1, method = "bonferroni")
-bonf_test
+lm_model_between <- lm(iron_level ~ group, data = iron_data)
+summary(lm_model_between)
+aov(lm_model_between)
 ```
 
-### Games Howell
+## Within model 
 
 ```{r}
-pairwise_comp <- pairwise_comparisons(data = stress_data, x = group, y = stress, type = "parametric", var.equal = FALSE )
-pairwise_comp
+### Dose as factor
+lm_model_within <- lm(iron_level ~ dose, data = iron_data)
+summary(lm_model_within)
+aov(lm_model_within)
+```
+
+### Dose as continuous
+```{r}
+
+iron_data <- iron_data %>%
+          mutate(dose_num = case_when(
+            dose == "high" ~ 1, 
+            dose == "medium" ~ 2, 
+            dose == "low" ~ 3, 
+            dose == "verylow" ~ 4
+          ))
+```
+
+```{r}
+table(iron_data$dose, iron_data$dose_num)
+glimpse(iron_data$dose_num)
+
+lm_model_within_num <- lm(iron_level ~ dose_num, data = iron_data)
+summary(lm_model_within_num)
+aov(lm_model_within_num)
+```
+
+## Within and Between 
+
+```{r}
+### Factor type (simple contrast)
+full_model <- lm(iron_level ~ group*dose, data = iron_data)
+summary(full_model)
+aov(full_model)
+
+### Numeric type (linear contrast)
+full_model_num <- lm(iron_level ~ group*dose_num, data = iron_data)
+summary(full_model_num)
+aov(full_model_num)
+
+### Numeric type (polynomial contrast)
+full_model_poly <- lm(iron_level ~ group*dose_num^2, data = iron_data)
+summary(full_model_poly)
+aov(full_model_poly)
 ```
 
 
