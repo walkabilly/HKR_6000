@@ -100,7 +100,7 @@ A2 | Exploring Data | [Description](https://walkabilly.github.io/HKR_6000/assign
 A3 | Comparing means | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/stats_assignment_3.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_rmardown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment3/sa3_sps_example.md) | 5
 A4 | Regression | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/stats_assignment_4.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment4/sa4_sps_example.sps) | 9
 A5 | ANOVA | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/stats_assignment_5.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment5/sa5_sps_example.sps) | 7
-A6 | Repeated Measures | [Description]() | [R]() - [SPSS]()  | 9
+A6 | Repeated Measures | [Description](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment6/stats_assignment_6.md) | [R](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment6/sa6_rmarkdown_example.md) - [SPSS](https://github.com/walkabilly/HKR_6000/blob/master/assignments/assignment6/sa6_sps_example.sps)  | 9
 
 ### Major Written Assignment
 Students are required to complete the final assignment. 
