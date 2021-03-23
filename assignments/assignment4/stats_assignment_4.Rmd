@@ -12,7 +12,7 @@ output:
 
 ## General Instructions
 
-For each dataset, analyze the data with the appropriate t-test to answer your research question. Your report should include the following headings. 
+For each dataset, analyze the data with the appropriate statistical test to answer your research question. Your report should include the following headings. 
 
 1. Research Question
 2. Research Design and Variables
@@ -47,10 +47,7 @@ A cross-sectional survey was conducted with the aim to explore the strength of b
 - Report and discuss the normality of the data:
   - Histograms
   - Skewness & Kurtosis
-  - Kolmogorov-Smirnov test
   - Identify and discuss any outliers by examining the box plots.
-- Report and discuss the Multicollinearity (remember that you have to run the regression model to get these diagnostics)
-- Report on the Homoscedasticity and Independent Errors - Plot ZRESID against ZPRED.
 
 ## Part 2 - Multiple Regression
 
@@ -61,26 +58,26 @@ A cross-sectional survey was conducted with the aim to explore the strength of b
       - Exercise-efficacy 
   - Outocome: 
       - Physically active leisure
-- Determine and state which method of regression and provide a rationale and reference
+- Determine and state which method of regression model selection you would choose for the three variables and provide a rationale and reference. 
   - Hierarchical 
   - Blockwise entry
   - Stepwise forward 
   - Stepwise backward
-- Report and discuss the following:
+- Report and discuss the following for the overall model:
     - R2 and Adjusted R2
     - F-ratio (and its corresponding degrees of freedom and level of significance)
-- How well does the Model fit the data? Analyze and discuss the following 
-    - Residual Statistics 
-    - Standardized Residuals
-    - Influential cases 
-    - Cook’s distance
 - Determine which variables predicted participation and the strength of the associations.
     - Create a table that reports the regression model
         - Beta values
         - Confidence intervals
-        - Standardized beta value
         - t-values
         - Level of significance
 - Discuss the direction and significance of the relation between the variables.
-- Discuss the strength of the associations in relation to each other.
+- How well does the Model fit the data? Analyze and discuss the following 
+    - Residual Statistics 
+    - Standardized Residuals
+    - Influential cases 
+- Report and discuss the Multicollinearity (remember that you have to run the regression model to get these diagnostics)
+- Report on the Homoscedasticity and Independent Errors - Plot ZRESID against ZPRED.
+
 
